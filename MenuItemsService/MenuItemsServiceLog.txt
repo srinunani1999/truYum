@@ -1,0 +1,420 @@
+2020-12-01 18:37:37,715 Application started. Press Ctrl+C to shut down.
+2020-12-01 18:37:37,728 Hosting environment: Development
+2020-12-01 18:37:37,730 Content root path: E:\Truyum\MenuItemsService
+2020-12-01 18:38:37,174 Http Get request Initiated
+2020-12-01 18:38:37,174 successfully got details
+2020-12-01 18:38:48,825 Http Get request Initiated
+2020-12-01 18:38:48,825 successfully got details
+2020-12-01 18:38:58,737 Http get request initiated with 1
+2020-12-01 18:38:58,738 Found Matching menu item
+2020-12-01 18:39:03,326 Http get request initiated with 5
+2020-12-01 18:39:03,326 Found Matching menu item
+2020-12-01 18:40:16,447 HttpPost Request Initiated for Id 5
+2020-12-01 18:40:16,448 Model state is  valid for Id 5
+2020-12-01 18:40:23,790 Http Get request Initiated
+2020-12-01 18:40:23,790 successfully got details
+2020-12-01 18:40:55,316 HttpPost Request Initiated for Id 6
+2020-12-01 18:40:55,316 Model state is  valid for Id 6
+2020-12-01 18:41:08,623 Http Get request Initiated
+2020-12-01 18:41:08,623 successfully got details
+2020-12-01 18:41:19,814 Http get request initiated with 6
+2020-12-01 18:41:19,815 Found Matching menu item
+2020-12-01 18:41:31,909 HttpPost Request Initiated for Id 1
+2020-12-01 18:41:31,909 Model state is  valid for Id 1
+2020-12-01 18:41:38,961 Http Get request Initiated
+2020-12-01 18:41:38,961 successfully got details
+2020-12-01 18:41:51,331 Http get request initiated with 1
+2020-12-01 18:41:51,331 Menu item with that Requested Id not Found
+2020-12-02 10:54:16,284 Application started. Press Ctrl+C to shut down.
+2020-12-02 10:54:16,332 Hosting environment: Development
+2020-12-02 10:54:16,336 Content root path: E:\Truyum\MenuItemsService
+2020-12-02 10:54:33,817 Application started. Press Ctrl+C to shut down.
+2020-12-02 10:54:33,838 Hosting environment: Development
+2020-12-02 10:54:33,841 Content root path: E:\Truyum\MenuItemsService
+2020-12-02 10:54:46,541 Http Get request Initiated
+2020-12-02 10:54:46,541 successfully got details
+2020-12-02 10:56:31,448 Http Get request Initiated
+2020-12-02 10:56:31,453 successfully got details
+2020-12-02 10:57:54,231 Http Get request Initiated
+2020-12-02 10:57:54,232 successfully got details
+2020-12-02 10:58:17,476 Http Get request Initiated
+2020-12-02 10:58:17,477 successfully got details
+2020-12-02 17:05:58,380 Application started. Press Ctrl+C to shut down.
+2020-12-02 17:05:58,415 Hosting environment: Development
+2020-12-02 17:05:58,420 Content root path: E:\Truyum\MenuItemsService
+2020-12-02 17:07:10,425 Http Get request Initiated
+2020-12-02 17:07:10,426 successfully got details
+2020-12-02 17:07:48,261 HttpPost Request Initiated for Id 10
+2020-12-02 17:07:48,262 Model state is  valid for Id 10
+2020-12-02 17:07:54,325 Http Get request Initiated
+2020-12-02 17:07:54,325 successfully got details
+2020-12-02 17:08:06,545 HttpPost Request Initiated for Id 10
+2020-12-02 17:08:06,546 Model state is  valid for Id 10
+2020-12-02 17:08:12,374 Http Get request Initiated
+2020-12-02 17:08:12,375 successfully got details
+2020-12-02 17:08:40,503 Http Get request Initiated
+2020-12-02 17:08:40,503 successfully got details
+2020-12-02 17:08:48,784 Http Get request Initiated
+2020-12-02 17:08:48,784 successfully got details
+2020-12-02 17:14:37,408 Http Get request Initiated
+2020-12-02 17:14:37,408 successfully got details
+2020-12-02 17:15:00,174 HttpPost Request Initiated for Id 9
+2020-12-02 17:15:00,174 Model state is  valid for Id 9
+2020-12-02 17:15:00,211 Http Get request Initiated
+2020-12-02 17:15:00,211 successfully got details
+2020-12-02 17:17:37,330 Http Get request Initiated
+2020-12-02 17:17:37,331 successfully got details
+2020-12-02 17:17:48,521 Http Get request Initiated
+2020-12-02 17:17:48,522 successfully got details
+2020-12-02 17:17:49,786 Http Get request Initiated
+2020-12-02 17:17:49,786 successfully got details
+2020-12-02 17:18:42,906 Http Get request Initiated
+2020-12-02 17:18:42,909 successfully got details
+2020-12-02 17:18:48,530 Http Get request Initiated
+2020-12-02 17:18:48,530 successfully got details
+2020-12-02 17:35:11,216 Http Get request Initiated
+2020-12-02 17:35:11,220 successfully got details
+2020-12-02 17:35:23,769 Http Get request Initiated
+2020-12-02 17:35:23,769 successfully got details
+2020-12-02 17:36:15,301 Http Get request Initiated
+2020-12-02 17:36:15,301 successfully got details
+2020-12-02 17:38:17,759 Http Get request Initiated
+2020-12-02 17:38:17,759 successfully got details
+2020-12-02 17:43:42,746 Http Get request Initiated
+2020-12-02 17:43:42,746 successfully got details
+2020-12-02 17:44:10,443 Http Get request Initiated
+2020-12-02 17:44:10,443 successfully got details
+2020-12-02 17:49:20,358 Http Get request Initiated
+2020-12-02 17:49:20,358 successfully got details
+2020-12-02 17:50:23,604 Http Get request Initiated
+2020-12-02 17:50:23,604 successfully got details
+2020-12-02 17:50:28,862 Http Get request Initiated
+2020-12-02 17:50:28,862 successfully got details
+2020-12-02 17:50:41,422 Http Get request Initiated
+2020-12-02 17:50:41,422 successfully got details
+2020-12-02 17:54:51,988 Http Get request Initiated
+2020-12-02 17:54:51,988 successfully got details
+2020-12-02 17:55:11,661 Http get request initiated with 1
+2020-12-02 17:55:11,661 Found Matching menu item
+2020-12-02 17:57:24,671 Http Get request Initiated
+2020-12-02 17:57:24,671 successfully got details
+2020-12-02 18:36:20,434 Http Get request Initiated
+2020-12-02 18:36:20,512 successfully got details
+2020-12-02 18:36:38,051 Http get request initiated with 1
+2020-12-02 18:36:38,051 Found Matching menu item
+2020-12-02 18:37:15,773 Http Get request Initiated
+2020-12-02 18:37:15,773 successfully got details
+2020-12-02 18:38:00,298 Http get request initiated with 3
+2020-12-02 18:38:00,298 Found Matching menu item
+2020-12-02 18:38:00,373 Http Get request Initiated
+2020-12-02 18:38:00,373 successfully got details
+2020-12-02 18:38:14,799 Http get request initiated with 5
+2020-12-02 18:38:14,799 Found Matching menu item
+2020-12-02 18:38:18,950 Http Get request Initiated
+2020-12-02 18:38:18,950 successfully got details
+2020-12-02 18:38:36,885 Http get request initiated with 1
+2020-12-02 18:38:36,885 Found Matching menu item
+2020-12-02 18:38:36,966 Http Get request Initiated
+2020-12-02 18:38:36,966 successfully got details
+2020-12-02 18:54:57,033 Http Get request Initiated
+2020-12-02 18:54:57,037 successfully got details
+2020-12-02 18:55:03,060 Http Get request Initiated
+2020-12-02 18:55:03,060 successfully got details
+2020-12-02 18:55:46,345 Http Get request Initiated
+2020-12-02 18:55:46,354 successfully got details
+2020-12-02 18:56:42,480 Http Get request Initiated
+2020-12-02 18:56:42,480 successfully got details
+2020-12-02 18:56:58,992 Http get request initiated with 1
+2020-12-02 18:56:58,993 Found Matching menu item
+2020-12-02 18:56:59,861 Http Get request Initiated
+2020-12-02 18:56:59,861 successfully got details
+2020-12-02 18:57:05,901 Http get request initiated with 2
+2020-12-02 18:57:05,901 Found Matching menu item
+2020-12-02 18:57:06,145 Http Get request Initiated
+2020-12-02 18:57:06,145 successfully got details
+2020-12-02 18:57:19,037 Http get request initiated with 3
+2020-12-02 18:57:19,037 Found Matching menu item
+2020-12-02 18:57:28,426 Http Get request Initiated
+2020-12-02 18:57:28,426 successfully got details
+2020-12-02 18:57:58,865 Http Get request Initiated
+2020-12-02 18:57:58,865 successfully got details
+2020-12-02 18:58:08,336 Http Get request Initiated
+2020-12-02 18:58:08,337 successfully got details
+2020-12-02 19:00:22,533 Http Get request Initiated
+2020-12-02 19:00:22,533 successfully got details
+2020-12-02 19:00:59,908 Http get request initiated with 1
+2020-12-02 19:00:59,908 Found Matching menu item
+2020-12-02 19:01:01,812 Http Get request Initiated
+2020-12-02 19:01:01,812 successfully got details
+2020-12-02 19:01:30,055 Http get request initiated with 3
+2020-12-02 19:01:30,055 Found Matching menu item
+2020-12-02 19:01:32,226 Http Get request Initiated
+2020-12-02 19:01:32,226 successfully got details
+2020-12-02 19:01:44,427 Http Get request Initiated
+2020-12-02 19:01:44,474 successfully got details
+2020-12-02 19:07:21,597 Http Get request Initiated
+2020-12-02 19:07:21,597 successfully got details
+2020-12-02 19:07:29,781 Http Get request Initiated
+2020-12-02 19:07:29,782 successfully got details
+2020-12-02 19:10:12,110 Http Get request Initiated
+2020-12-02 19:10:12,110 successfully got details
+2020-12-02 19:10:14,134 Http get request initiated with 1
+2020-12-02 19:10:14,134 Found Matching menu item
+2020-12-02 19:10:14,943 Http Get request Initiated
+2020-12-02 19:10:14,943 successfully got details
+2020-12-02 19:10:16,633 Http get request initiated with 3
+2020-12-02 19:10:16,633 Found Matching menu item
+2020-12-02 19:10:16,842 Http Get request Initiated
+2020-12-02 19:10:16,842 successfully got details
+2020-12-02 19:10:17,892 Http get request initiated with 4
+2020-12-02 19:10:17,892 Found Matching menu item
+2020-12-02 19:10:17,999 Http Get request Initiated
+2020-12-02 19:10:17,999 successfully got details
+2020-12-02 19:10:25,719 Http Get request Initiated
+2020-12-02 19:10:25,719 successfully got details
+2020-12-02 19:10:33,185 Http Get request Initiated
+2020-12-02 19:10:33,185 successfully got details
+2020-12-02 19:11:13,212 Http Get request Initiated
+2020-12-02 19:11:13,212 successfully got details
+2020-12-02 19:11:17,148 Http get request initiated with 2
+2020-12-02 19:11:17,148 Found Matching menu item
+2020-12-02 19:11:17,292 Http Get request Initiated
+2020-12-02 19:11:17,292 successfully got details
+2020-12-02 19:11:18,101 Http get request initiated with 1
+2020-12-02 19:11:18,101 Found Matching menu item
+2020-12-02 19:11:18,237 Http Get request Initiated
+2020-12-02 19:11:18,237 successfully got details
+2020-12-02 19:11:19,089 Http get request initiated with 5
+2020-12-02 19:11:19,089 Found Matching menu item
+2020-12-02 19:11:19,219 Http Get request Initiated
+2020-12-02 19:11:19,219 successfully got details
+2020-12-02 19:11:21,330 Http get request initiated with 4
+2020-12-02 19:11:21,330 Found Matching menu item
+2020-12-02 19:11:21,372 Http Get request Initiated
+2020-12-02 19:11:21,372 successfully got details
+2020-12-02 19:11:28,086 Http Get request Initiated
+2020-12-02 19:11:28,086 successfully got details
+2020-12-02 19:11:43,296 Http Get request Initiated
+2020-12-02 19:11:43,296 successfully got details
+2020-12-02 19:11:58,557 Http Get request Initiated
+2020-12-02 19:11:58,557 successfully got details
+2020-12-02 19:12:16,083 Http Get request Initiated
+2020-12-02 19:12:16,083 successfully got details
+2020-12-02 19:12:17,645 Http get request initiated with 1
+2020-12-02 19:12:17,645 Found Matching menu item
+2020-12-02 19:12:17,748 Http Get request Initiated
+2020-12-02 19:12:17,748 successfully got details
+2020-12-02 19:12:18,612 Http get request initiated with 3
+2020-12-02 19:12:18,613 Found Matching menu item
+2020-12-02 19:12:18,920 Http Get request Initiated
+2020-12-02 19:12:18,920 successfully got details
+2020-12-02 19:12:19,539 Http get request initiated with 2
+2020-12-02 19:12:19,539 Found Matching menu item
+2020-12-02 19:12:19,617 Http Get request Initiated
+2020-12-02 19:12:19,617 successfully got details
+2020-12-02 19:12:20,600 Http get request initiated with 5
+2020-12-02 19:12:20,600 Found Matching menu item
+2020-12-02 19:12:20,645 Http Get request Initiated
+2020-12-02 19:12:20,645 successfully got details
+2020-12-02 19:15:18,835 Http Get request Initiated
+2020-12-02 19:15:18,836 successfully got details
+2020-12-02 19:15:20,641 Http get request initiated with 1
+2020-12-02 19:15:20,647 Found Matching menu item
+2020-12-02 19:15:20,925 Http Get request Initiated
+2020-12-02 19:15:20,925 successfully got details
+2020-12-02 19:15:38,500 Http Get request Initiated
+2020-12-02 19:15:38,500 successfully got details
+2020-12-02 19:15:40,323 Http get request initiated with 5
+2020-12-02 19:15:40,323 Found Matching menu item
+2020-12-02 19:15:40,468 Http Get request Initiated
+2020-12-02 19:15:40,468 successfully got details
+2020-12-02 19:21:17,771 Http Get request Initiated
+2020-12-02 19:21:17,771 successfully got details
+2020-12-02 19:21:19,638 Http get request initiated with 1
+2020-12-02 19:21:19,638 Found Matching menu item
+2020-12-02 19:21:20,109 Http get request initiated with 2
+2020-12-02 19:21:20,111 Found Matching menu item
+2020-12-02 19:21:20,193 Http Get request Initiated
+2020-12-02 19:21:20,193 successfully got details
+2020-12-02 19:22:07,900 Http Get request Initiated
+2020-12-02 19:22:07,901 successfully got details
+2020-12-02 19:22:07,992 Http Get request Initiated
+2020-12-02 19:22:07,992 successfully got details
+2020-12-02 19:25:47,337 Http Get request Initiated
+2020-12-02 19:25:47,337 successfully got details
+2020-12-02 19:25:48,927 Http get request initiated with 1
+2020-12-02 19:25:49,130 Found Matching menu item
+2020-12-02 19:25:49,264 Http Get request Initiated
+2020-12-02 19:25:49,264 successfully got details
+2020-12-02 19:25:50,000 Http get request initiated with 2
+2020-12-02 19:25:50,000 Found Matching menu item
+2020-12-02 19:25:50,034 Http Get request Initiated
+2020-12-02 19:25:50,034 successfully got details
+2020-12-02 19:26:25,226 Http Get request Initiated
+2020-12-02 19:26:25,226 successfully got details
+2020-12-02 19:44:08,292 Http Get request Initiated
+2020-12-02 19:44:08,316 successfully got details
+2020-12-02 19:44:14,666 Http get request initiated with 1
+2020-12-02 19:44:14,666 Found Matching menu item
+2020-12-02 19:44:14,964 Http Get request Initiated
+2020-12-02 19:44:14,964 successfully got details
+2020-12-02 19:46:53,609 Http Get request Initiated
+2020-12-02 19:46:53,609 successfully got details
+2020-12-02 19:46:56,369 Http get request initiated with 1
+2020-12-02 19:46:56,369 Found Matching menu item
+2020-12-02 19:46:56,791 Http Get request Initiated
+2020-12-02 19:46:56,791 successfully got details
+2020-12-02 19:46:58,231 Http get request initiated with 4
+2020-12-02 19:46:58,237 Found Matching menu item
+2020-12-02 19:46:58,519 Http Get request Initiated
+2020-12-02 19:46:58,519 successfully got details
+2020-12-02 19:51:51,869 Http Get request Initiated
+2020-12-02 19:51:51,869 successfully got details
+2020-12-02 19:51:54,740 Http get request initiated with 1
+2020-12-02 19:51:54,740 Found Matching menu item
+2020-12-02 19:51:54,985 Http Get request Initiated
+2020-12-02 19:51:54,986 successfully got details
+2020-12-02 19:53:50,721 Http Get request Initiated
+2020-12-02 19:53:50,721 successfully got details
+2020-12-02 19:55:12,309 Http Get request Initiated
+2020-12-02 19:55:12,309 successfully got details
+2020-12-02 19:55:17,396 Http Get request Initiated
+2020-12-02 19:55:17,396 successfully got details
+2020-12-02 19:55:21,624 Http Get request Initiated
+2020-12-02 19:55:21,672 successfully got details
+2020-12-02 19:56:23,531 Http Get request Initiated
+2020-12-02 19:56:23,531 successfully got details
+2020-12-02 19:56:26,454 Http get request initiated with 1
+2020-12-02 19:56:26,454 Found Matching menu item
+2020-12-02 19:56:26,708 Http Get request Initiated
+2020-12-02 19:56:26,708 successfully got details
+2020-12-02 19:58:44,439 Http Get request Initiated
+2020-12-02 19:58:44,450 successfully got details
+2020-12-02 19:58:46,798 Http get request initiated with 1
+2020-12-02 19:58:46,799 Found Matching menu item
+2020-12-02 19:58:46,971 Http Get request Initiated
+2020-12-02 19:58:46,971 successfully got details
+2020-12-02 20:00:04,656 Http Get request Initiated
+2020-12-02 20:00:04,656 successfully got details
+2020-12-02 20:06:45,249 Http Get request Initiated
+2020-12-02 20:06:45,258 successfully got details
+2020-12-02 20:13:09,920 Http Get request Initiated
+2020-12-02 20:13:09,920 successfully got details
+2020-12-02 20:16:03,618 Http Get request Initiated
+2020-12-02 20:16:03,619 successfully got details
+2020-12-02 20:16:05,125 Http get request initiated with 1
+2020-12-02 20:16:05,125 Found Matching menu item
+2020-12-02 20:16:05,475 Http Get request Initiated
+2020-12-02 20:16:05,476 successfully got details
+2020-12-02 20:18:37,494 Http Get request Initiated
+2020-12-02 20:18:37,494 successfully got details
+2020-12-02 20:19:50,148 Http Get request Initiated
+2020-12-02 20:19:50,149 successfully got details
+2020-12-02 20:21:10,785 Http Get request Initiated
+2020-12-02 20:21:10,785 successfully got details
+2020-12-02 20:27:11,753 Http Get request Initiated
+2020-12-02 20:27:11,753 successfully got details
+2020-12-02 20:28:30,757 Http Get request Initiated
+2020-12-02 20:28:30,757 successfully got details
+2020-12-02 20:29:13,795 Http Get request Initiated
+2020-12-02 20:29:13,796 successfully got details
+2020-12-02 20:29:19,673 Http get request initiated with 2
+2020-12-02 20:29:19,673 Found Matching menu item
+2020-12-02 20:29:19,958 Http Get request Initiated
+2020-12-02 20:29:19,958 successfully got details
+2020-12-02 20:29:24,561 Http get request initiated with 4
+2020-12-02 20:29:24,561 Found Matching menu item
+2020-12-02 20:29:24,622 Http Get request Initiated
+2020-12-02 20:29:24,622 successfully got details
+2020-12-02 20:29:52,533 Http get request initiated with 2
+2020-12-02 20:29:52,533 Found Matching menu item
+2020-12-02 20:29:52,654 Http Get request Initiated
+2020-12-02 20:29:52,655 successfully got details
+2020-12-02 20:29:55,608 Http get request initiated with 4
+2020-12-02 20:29:55,609 Found Matching menu item
+2020-12-02 20:29:55,663 Http Get request Initiated
+2020-12-02 20:29:55,663 successfully got details
+2020-12-02 20:31:22,641 Http Get request Initiated
+2020-12-02 20:31:22,641 successfully got details
+2020-12-02 20:37:24,234 Http Get request Initiated
+2020-12-02 20:37:24,257 successfully got details
+2020-12-02 20:38:11,439 Http Get request Initiated
+2020-12-02 20:38:11,439 successfully got details
+2020-12-02 20:39:17,928 Http Get request Initiated
+2020-12-02 20:39:17,928 successfully got details
+2020-12-02 20:39:20,392 Http get request initiated with 1
+2020-12-02 20:39:20,392 Found Matching menu item
+2020-12-02 20:39:20,508 Http Get request Initiated
+2020-12-02 20:39:20,509 successfully got details
+2020-12-02 20:42:30,501 Http Get request Initiated
+2020-12-02 20:42:30,501 successfully got details
+2020-12-02 20:42:37,382 Http Get request Initiated
+2020-12-02 20:42:37,382 successfully got details
+2020-12-02 20:42:38,554 Http get request initiated with 2
+2020-12-02 20:42:38,554 Found Matching menu item
+2020-12-02 20:42:38,590 Http Get request Initiated
+2020-12-02 20:42:38,590 successfully got details
+2020-12-02 20:42:40,170 Http get request initiated with 3
+2020-12-02 20:42:40,170 Found Matching menu item
+2020-12-02 20:42:40,254 Http Get request Initiated
+2020-12-02 20:42:40,254 successfully got details
+2020-12-02 20:42:40,560 Http get request initiated with 4
+2020-12-02 20:42:40,560 Found Matching menu item
+2020-12-02 20:42:40,615 Http Get request Initiated
+2020-12-02 20:42:40,615 successfully got details
+2020-12-02 21:05:31,898 Http Get request Initiated
+2020-12-02 21:05:32,244 successfully got details
+2020-12-02 21:05:42,427 Http get request initiated with 2
+2020-12-02 21:05:42,427 Found Matching menu item
+2020-12-02 21:06:07,041 Http get request initiated with 3
+2020-12-02 21:06:07,041 Found Matching menu item
+2020-12-02 21:06:07,565 Http get request initiated with 3
+2020-12-02 21:06:07,565 Found Matching menu item
+2020-12-02 21:06:07,844 Http get request initiated with 4
+2020-12-02 21:06:07,844 Found Matching menu item
+2020-12-02 21:06:08,860 Http get request initiated with 5
+2020-12-02 21:06:08,860 Found Matching menu item
+2020-12-02 21:06:11,914 Http Get request Initiated
+2020-12-02 21:06:11,914 successfully got details
+2020-12-02 21:06:48,009 Http Get request Initiated
+2020-12-02 21:06:48,009 successfully got details
+2020-12-02 21:06:49,521 Http get request initiated with 2
+2020-12-02 21:06:49,521 Found Matching menu item
+2020-12-02 21:06:49,863 Http Get request Initiated
+2020-12-02 21:06:49,882 successfully got details
+2020-12-02 21:07:07,089 Http Get request Initiated
+2020-12-02 21:07:07,089 successfully got details
+2020-12-02 21:07:11,002 Http Get request Initiated
+2020-12-02 21:07:11,002 successfully got details
+2020-12-02 21:07:50,577 Http Get request Initiated
+2020-12-02 21:07:50,599 successfully got details
+2020-12-02 21:07:55,313 Http get request initiated with 1
+2020-12-02 21:07:55,313 Found Matching menu item
+2020-12-02 21:07:56,717 Http Get request Initiated
+2020-12-02 21:07:56,878 successfully got details
+2020-12-02 21:07:58,011 Http get request initiated with 2
+2020-12-02 21:07:58,312 Found Matching menu item
+2020-12-02 21:07:58,499 Http Get request Initiated
+2020-12-02 21:07:58,499 successfully got details
+2020-12-02 21:08:00,939 Http get request initiated with 4
+2020-12-02 21:08:00,939 Found Matching menu item
+2020-12-02 21:08:02,039 Http Get request Initiated
+2020-12-02 21:08:02,039 successfully got details
+2020-12-02 21:08:11,041 Http Get request Initiated
+2020-12-02 21:08:11,041 successfully got details
+2020-12-02 21:08:13,009 Http get request initiated with 5
+2020-12-02 21:08:13,009 Found Matching menu item
+2020-12-02 21:08:13,117 Http Get request Initiated
+2020-12-02 21:08:13,117 successfully got details
+2020-12-02 21:08:14,952 Http get request initiated with 4
+2020-12-02 21:08:14,952 Found Matching menu item
+2020-12-02 21:08:15,024 Http Get request Initiated
+2020-12-02 21:08:15,024 successfully got details
+2020-12-02 21:09:13,574 Http Get request Initiated
+2020-12-02 21:09:13,574 successfully got details
+2020-12-02 21:09:17,226 Http Get request Initiated
+2020-12-02 21:09:17,226 successfully got details
+2020-12-02 21:09:18,437 Http get request initiated with 2
+2020-12-02 21:09:18,437 Found Matching menu item
+2020-12-02 21:09:18,521 Http Get request Initiated
+2020-12-02 21:09:18,521 successfully got details

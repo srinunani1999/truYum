@@ -1,0 +1,1158 @@
+2020-12-02 09:36:00,965 Application started. Press Ctrl+C to shut down.
+2020-12-02 09:36:00,989 Hosting environment: Development
+2020-12-02 09:36:00,992 Content root path: E:\Truyum\TruYumClient
+2020-12-02 09:36:25,406 Application started. Press Ctrl+C to shut down.
+2020-12-02 09:36:25,425 Hosting environment: Development
+2020-12-02 09:36:25,428 Content root path: E:\Truyum\TruYumClient
+2020-12-02 09:36:39,311 Application started. Press Ctrl+C to shut down.
+2020-12-02 09:36:39,330 Hosting environment: Development
+2020-12-02 09:36:39,333 Content root path: E:\Truyum\TruYumClient
+2020-12-02 09:37:47,560 Application started. Press Ctrl+C to shut down.
+2020-12-02 09:37:47,571 Hosting environment: Development
+2020-12-02 09:37:47,573 Content root path: E:\Truyum\TruYumClient
+2020-12-02 09:37:59,898 User Login
+2020-12-02 09:41:32,271 Application started. Press Ctrl+C to shut down.
+2020-12-02 09:41:32,323 Hosting environment: Development
+2020-12-02 09:41:32,332 Content root path: E:\Truyum\TruYumClient
+2020-12-02 09:41:46,850 User Login
+2020-12-02 09:44:46,952 Application started. Press Ctrl+C to shut down.
+2020-12-02 09:44:46,965 Hosting environment: Development
+2020-12-02 09:44:46,966 Content root path: E:\Truyum\TruYumClient
+2020-12-02 09:45:23,889 User Login
+2020-12-02 09:46:10,722 Application started. Press Ctrl+C to shut down.
+2020-12-02 09:46:10,744 Hosting environment: Development
+2020-12-02 09:46:10,747 Content root path: E:\Truyum\TruYumClient
+2020-12-02 09:46:22,888 User Login
+2020-12-02 09:48:39,671 Application started. Press Ctrl+C to shut down.
+2020-12-02 09:48:39,683 Hosting environment: Development
+2020-12-02 09:48:39,685 Content root path: E:\Truyum\TruYumClient
+2020-12-02 10:01:46,706 Application started. Press Ctrl+C to shut down.
+2020-12-02 10:01:46,722 Hosting environment: Development
+2020-12-02 10:01:46,725 Content root path: E:\Truyum\TruYumClient
+2020-12-02 10:01:55,592 User Login
+2020-12-02 10:03:07,292 Application started. Press Ctrl+C to shut down.
+2020-12-02 10:03:07,301 Hosting environment: Development
+2020-12-02 10:03:07,303 Content root path: E:\Truyum\TruYumClient
+2020-12-02 10:03:13,507 User Login
+2020-12-02 10:03:18,204 User Log Out
+2020-12-02 10:03:48,882 Application started. Press Ctrl+C to shut down.
+2020-12-02 10:03:48,893 Hosting environment: Development
+2020-12-02 10:03:48,895 Content root path: E:\Truyum\TruYumClient
+2020-12-02 10:04:23,157 Application started. Press Ctrl+C to shut down.
+2020-12-02 10:04:23,170 Hosting environment: Development
+2020-12-02 10:04:23,171 Content root path: E:\Truyum\TruYumClient
+2020-12-02 10:06:22,523 Application started. Press Ctrl+C to shut down.
+2020-12-02 10:06:22,534 Hosting environment: Development
+2020-12-02 10:06:22,536 Content root path: E:\Truyum\TruYumClient
+2020-12-02 10:08:52,874 Application started. Press Ctrl+C to shut down.
+2020-12-02 10:08:52,885 Hosting environment: Development
+2020-12-02 10:08:52,886 Content root path: E:\Truyum\TruYumClient
+2020-12-02 10:09:43,193 Application started. Press Ctrl+C to shut down.
+2020-12-02 10:09:43,202 Hosting environment: Development
+2020-12-02 10:09:43,204 Content root path: E:\Truyum\TruYumClient
+2020-12-02 10:11:22,530 Application started. Press Ctrl+C to shut down.
+2020-12-02 10:11:22,542 Hosting environment: Development
+2020-12-02 10:11:22,543 Content root path: E:\Truyum\TruYumClient
+2020-12-02 10:11:48,696 Application started. Press Ctrl+C to shut down.
+2020-12-02 10:11:48,709 Hosting environment: Development
+2020-12-02 10:11:48,710 Content root path: E:\Truyum\TruYumClient
+2020-12-02 10:12:29,747 Application started. Press Ctrl+C to shut down.
+2020-12-02 10:12:29,756 Hosting environment: Development
+2020-12-02 10:12:29,758 Content root path: E:\Truyum\TruYumClient
+2020-12-02 10:12:56,120 User Login
+2020-12-02 10:12:58,953 User Log Out
+2020-12-02 10:50:20,508 Application started. Press Ctrl+C to shut down.
+2020-12-02 10:50:20,518 Hosting environment: Development
+2020-12-02 10:50:20,520 Content root path: E:\Truyum\TruYumClient
+2020-12-02 10:50:26,354 User Login
+2020-12-02 10:55:45,555 Application started. Press Ctrl+C to shut down.
+2020-12-02 10:55:45,574 Hosting environment: Development
+2020-12-02 10:55:45,576 Content root path: E:\Truyum\TruYumClient
+2020-12-02 10:55:51,049 User Login
+2020-12-02 10:56:16,598 Application started. Press Ctrl+C to shut down.
+2020-12-02 10:56:16,618 Hosting environment: Development
+2020-12-02 10:56:16,621 Content root path: E:\Truyum\TruYumClient
+2020-12-02 10:56:22,165 User Login
+2020-12-02 10:56:31,406 Http get request initiated for organization details
+2020-12-02 10:57:27,048 Application started. Press Ctrl+C to shut down.
+2020-12-02 10:57:27,058 Hosting environment: Development
+2020-12-02 10:57:27,060 Content root path: E:\Truyum\TruYumClient
+2020-12-02 10:57:30,923 User Login
+2020-12-02 10:57:54,206 Http get request initiated for organization details
+2020-12-02 10:58:04,891 User Log Out
+2020-12-02 10:58:10,124 token not found
+2020-12-02 10:58:17,069 User Login
+2020-12-02 10:58:17,455 Http get request initiated for organization details
+2020-12-02 10:58:19,080 User Log Out
+2020-12-02 10:58:22,386 token not found
+2020-12-02 17:07:27,443 Application started. Press Ctrl+C to shut down.
+2020-12-02 17:07:27,489 Hosting environment: Development
+2020-12-02 17:07:27,493 Content root path: E:\Truyum\TruYumClient
+2020-12-02 17:08:37,789 User Login
+2020-12-02 17:08:40,473 Http get request initiated for organization details
+2020-12-02 17:08:46,887 The view 'Create' was not found. Searched locations: /Views/MenuItem/Create.cshtml, /Views/Shared/Create.cshtml
+2020-12-02 17:08:47,083 An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: The view 'Create' was not found. The following locations were searched:
+/Views/MenuItem/Create.cshtml
+/Views/Shared/Create.cshtml
+   at Microsoft.AspNetCore.Mvc.ViewEngines.ViewEngineResult.EnsureSuccessful(IEnumerable`1 originalLocations)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor.ExecuteAsync(ActionContext context, ViewResult result)
+   at Microsoft.AspNetCore.Mvc.ViewResult.ExecuteResultAsync(ActionContext context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResultFilterAsync>g__Awaited|29_0[TFilter,TFilterAsync](ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResultExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.ResultNext[TFilter,TFilterAsync](State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeResultFilters()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|24_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Session.SessionMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Session.SessionMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2020-12-02 17:08:48,769 Http get request initiated for organization details
+2020-12-02 17:14:16,110 Application started. Press Ctrl+C to shut down.
+2020-12-02 17:14:16,127 Hosting environment: Development
+2020-12-02 17:14:16,130 Content root path: E:\Truyum\TruYumClient
+2020-12-02 17:14:36,361 User Login
+2020-12-02 17:14:37,352 Http get request initiated for organization details
+2020-12-02 17:15:00,086 http post request initiaited for posting organization
+2020-12-02 17:15:00,202 Http get request initiated for organization details
+2020-12-02 17:15:59,152 User Log Out
+2020-12-02 17:16:13,428 User Login
+2020-12-02 17:16:18,582 An unhandled exception has occurred while executing the request.
+System.Net.Http.HttpRequestException: No connection could be made because the target machine actively refused it.
+ ---> System.Net.Sockets.SocketException (10061): No connection could be made because the target machine actively refused it.
+   at System.Net.Http.ConnectHelper.ConnectAsync(String host, Int32 port, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.ConnectHelper.ConnectAsync(String host, Int32 port, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean allowHttp2, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.GetHttpConnectionAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithRetryAsync(HttpRequestMessage request, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.DiagnosticsHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.FinishSendAsyncBuffered(Task`1 sendTask, HttpRequestMessage request, CancellationTokenSource cts, Boolean disposeCts)
+   at TruYumClient.Controllers.LoginController.Login(User user) in E:\Truyum\TruYumClient\Controllers\LoginController.cs:line 40
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|24_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Session.SessionMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Session.SessionMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2020-12-02 17:16:21,991 User Log Out
+2020-12-02 17:16:23,666 User Login
+2020-12-02 17:16:27,787 An unhandled exception has occurred while executing the request.
+System.Net.Http.HttpRequestException: No connection could be made because the target machine actively refused it.
+ ---> System.Net.Sockets.SocketException (10061): No connection could be made because the target machine actively refused it.
+   at System.Net.Http.ConnectHelper.ConnectAsync(String host, Int32 port, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.ConnectHelper.ConnectAsync(String host, Int32 port, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean allowHttp2, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.GetHttpConnectionAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithRetryAsync(HttpRequestMessage request, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.DiagnosticsHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.FinishSendAsyncBuffered(Task`1 sendTask, HttpRequestMessage request, CancellationTokenSource cts, Boolean disposeCts)
+   at TruYumClient.Controllers.LoginController.Login(User user) in E:\Truyum\TruYumClient\Controllers\LoginController.cs:line 40
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|24_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Session.SessionMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Session.SessionMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2020-12-02 17:16:35,091 User Log Out
+2020-12-02 17:16:40,581 User Login
+2020-12-02 17:16:44,698 An unhandled exception has occurred while executing the request.
+System.Net.Http.HttpRequestException: No connection could be made because the target machine actively refused it.
+ ---> System.Net.Sockets.SocketException (10061): No connection could be made because the target machine actively refused it.
+   at System.Net.Http.ConnectHelper.ConnectAsync(String host, Int32 port, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.ConnectHelper.ConnectAsync(String host, Int32 port, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean allowHttp2, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.GetHttpConnectionAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithRetryAsync(HttpRequestMessage request, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.DiagnosticsHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.FinishSendAsyncBuffered(Task`1 sendTask, HttpRequestMessage request, CancellationTokenSource cts, Boolean disposeCts)
+   at TruYumClient.Controllers.LoginController.Login(User user) in E:\Truyum\TruYumClient\Controllers\LoginController.cs:line 40
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|24_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Session.SessionMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Session.SessionMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2020-12-02 17:17:05,090 Application started. Press Ctrl+C to shut down.
+2020-12-02 17:17:05,113 Hosting environment: Development
+2020-12-02 17:17:05,118 Content root path: E:\Truyum\TruYumClient
+2020-12-02 17:17:32,710 User Login
+2020-12-02 17:17:37,287 Http get request initiated for organization details
+2020-12-02 17:17:48,508 Http get request initiated for organization details
+2020-12-02 17:17:49,776 Http get request initiated for organization details
+2020-12-02 17:17:54,881 User Log Out
+2020-12-02 17:17:59,494 User Login
+2020-12-02 17:18:03,774 An unhandled exception has occurred while executing the request.
+System.Net.Http.HttpRequestException: No connection could be made because the target machine actively refused it.
+ ---> System.Net.Sockets.SocketException (10061): No connection could be made because the target machine actively refused it.
+   at System.Net.Http.ConnectHelper.ConnectAsync(String host, Int32 port, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.ConnectHelper.ConnectAsync(String host, Int32 port, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean allowHttp2, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.GetHttpConnectionAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithRetryAsync(HttpRequestMessage request, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.DiagnosticsHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.FinishSendAsyncBuffered(Task`1 sendTask, HttpRequestMessage request, CancellationTokenSource cts, Boolean disposeCts)
+   at TruYumClient.Controllers.LoginController.Login(User user) in E:\Truyum\TruYumClient\Controllers\LoginController.cs:line 40
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|24_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Session.SessionMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Session.SessionMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2020-12-02 17:18:07,054 User Log Out
+2020-12-02 17:18:42,434 User Login
+2020-12-02 17:18:42,876 Http get request initiated for organization details
+2020-12-02 17:18:48,512 Http get request initiated for organization details
+2020-12-02 17:34:13,831 Application started. Press Ctrl+C to shut down.
+2020-12-02 17:34:13,856 Hosting environment: Development
+2020-12-02 17:34:13,859 Content root path: E:\Truyum\TruYumClient
+2020-12-02 17:34:19,063 User Login
+2020-12-02 17:34:24,177 An unhandled exception has occurred while executing the request.
+System.Net.Http.HttpRequestException: No connection could be made because the target machine actively refused it.
+ ---> System.Net.Sockets.SocketException (10061): No connection could be made because the target machine actively refused it.
+   at System.Net.Http.ConnectHelper.ConnectAsync(String host, Int32 port, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.ConnectHelper.ConnectAsync(String host, Int32 port, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean allowHttp2, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.GetHttpConnectionAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithRetryAsync(HttpRequestMessage request, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.DiagnosticsHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.FinishSendAsyncBuffered(Task`1 sendTask, HttpRequestMessage request, CancellationTokenSource cts, Boolean disposeCts)
+   at TruYumClient.Controllers.LoginController.Login(User user) in E:\Truyum\TruYumClient\Controllers\LoginController.cs:line 40
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|24_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Session.SessionMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Session.SessionMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2020-12-02 17:35:10,145 User Login
+2020-12-02 17:35:11,002 Http get request initiated for organization details
+2020-12-02 17:35:23,721 Http get request initiated for organization details
+2020-12-02 17:36:09,008 Application started. Press Ctrl+C to shut down.
+2020-12-02 17:36:09,027 Hosting environment: Development
+2020-12-02 17:36:09,030 Content root path: E:\Truyum\TruYumClient
+2020-12-02 17:36:14,352 User Login
+2020-12-02 17:36:15,217 Http get request initiated for organization details
+2020-12-02 17:38:10,130 Application started. Press Ctrl+C to shut down.
+2020-12-02 17:38:10,147 Hosting environment: Development
+2020-12-02 17:38:10,150 Content root path: E:\Truyum\TruYumClient
+2020-12-02 17:38:16,688 User Login
+2020-12-02 17:38:17,723 Http get request initiated for organization details
+2020-12-02 17:43:34,775 Application started. Press Ctrl+C to shut down.
+2020-12-02 17:43:34,792 Hosting environment: Development
+2020-12-02 17:43:34,794 Content root path: E:\Truyum\TruYumClient
+2020-12-02 17:43:41,749 User Login
+2020-12-02 17:43:42,579 Http get request initiated for organization details
+2020-12-02 17:43:47,872 The view 'Index' was not found. Searched locations: /Views/Cart/Index.cshtml, /Views/Shared/Index.cshtml
+2020-12-02 17:43:48,060 An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: The view 'Index' was not found. The following locations were searched:
+/Views/Cart/Index.cshtml
+/Views/Shared/Index.cshtml
+   at Microsoft.AspNetCore.Mvc.ViewEngines.ViewEngineResult.EnsureSuccessful(IEnumerable`1 originalLocations)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor.ExecuteAsync(ActionContext context, ViewResult result)
+   at Microsoft.AspNetCore.Mvc.ViewResult.ExecuteResultAsync(ActionContext context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResultFilterAsync>g__Awaited|29_0[TFilter,TFilterAsync](ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResultExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.ResultNext[TFilter,TFilterAsync](State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeResultFilters()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|24_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Session.SessionMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Session.SessionMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2020-12-02 17:44:10,345 Http get request initiated for organization details
+2020-12-02 17:48:27,660 Application started. Press Ctrl+C to shut down.
+2020-12-02 17:48:27,678 Hosting environment: Development
+2020-12-02 17:48:27,681 Content root path: E:\Truyum\TruYumClient
+2020-12-02 17:48:34,825 User Login
+2020-12-02 17:48:39,538 An unhandled exception has occurred while executing the request.
+System.Net.Http.HttpRequestException: No connection could be made because the target machine actively refused it.
+ ---> System.Net.Sockets.SocketException (10061): No connection could be made because the target machine actively refused it.
+   at System.Net.Http.ConnectHelper.ConnectAsync(String host, Int32 port, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.ConnectHelper.ConnectAsync(String host, Int32 port, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean allowHttp2, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.GetHttpConnectionAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithRetryAsync(HttpRequestMessage request, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.DiagnosticsHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.FinishSendAsyncBuffered(Task`1 sendTask, HttpRequestMessage request, CancellationTokenSource cts, Boolean disposeCts)
+   at TruYumClient.Controllers.LoginController.Login(User user) in E:\Truyum\TruYumClient\Controllers\LoginController.cs:line 40
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|24_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Session.SessionMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Session.SessionMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2020-12-02 17:49:19,276 User Login
+2020-12-02 17:49:20,077 Http get request initiated for organization details
+2020-12-02 17:50:23,565 Http get request initiated for organization details
+2020-12-02 17:50:28,818 Http get request initiated for organization details
+2020-12-02 17:50:41,384 Http get request initiated for organization details
+2020-12-02 17:54:44,194 Application started. Press Ctrl+C to shut down.
+2020-12-02 17:54:44,239 Hosting environment: Development
+2020-12-02 17:54:44,242 Content root path: E:\Truyum\TruYumClient
+2020-12-02 17:54:50,552 User Login
+2020-12-02 17:54:51,592 Http get request initiated for organization details
+2020-12-02 17:55:00,876 Http get request initiated for organization details
+2020-12-02 17:57:17,428 Application started. Press Ctrl+C to shut down.
+2020-12-02 17:57:17,450 Hosting environment: Development
+2020-12-02 17:57:17,454 Content root path: E:\Truyum\TruYumClient
+2020-12-02 17:57:23,874 User Login
+2020-12-02 17:57:24,595 Http get request initiated for organization details
+2020-12-02 18:36:04,944 Application started. Press Ctrl+C to shut down.
+2020-12-02 18:36:04,982 Hosting environment: Development
+2020-12-02 18:36:04,985 Content root path: E:\Truyum\TruYumClient
+2020-12-02 18:36:16,124 User Login
+2020-12-02 18:36:18,264 Http get request initiated for organization details
+2020-12-02 18:36:29,464 Http get request initiated for organization details
+2020-12-02 18:37:15,736 Http get request initiated for organization details
+2020-12-02 18:38:00,229 Http get request initiated for organization details
+2020-12-02 18:38:00,351 Http get request initiated for organization details
+2020-12-02 18:38:14,673 Http get request initiated for organization details
+2020-12-02 18:38:18,727 Http get request initiated for organization details
+2020-12-02 18:38:36,025 Http get request initiated for organization details
+2020-12-02 18:38:36,952 Http get request initiated for organization details
+2020-12-02 18:54:33,703 Application started. Press Ctrl+C to shut down.
+2020-12-02 18:54:33,731 Hosting environment: Development
+2020-12-02 18:54:33,734 Content root path: E:\Truyum\TruYumClient
+2020-12-02 18:54:54,857 User Login
+2020-12-02 18:54:56,343 Http get request initiated for organization details
+2020-12-02 18:54:59,110 An unhandled exception has occurred while executing the request.
+Microsoft.AspNetCore.Routing.Matching.AmbiguousMatchException: The request matched multiple endpoints. Matches: 
+
+TruYumClient.Controllers.CartController.AddToCartAsync (TruYumClient)
+TruYumClient.Controllers.CartController.GetCartItemsAsync (TruYumClient)
+   at Microsoft.AspNetCore.Routing.Matching.DefaultEndpointSelector.ReportAmbiguity(CandidateState[] candidateState)
+   at Microsoft.AspNetCore.Routing.Matching.DefaultEndpointSelector.ProcessFinalCandidates(HttpContext httpContext, CandidateState[] candidateState)
+   at Microsoft.AspNetCore.Routing.Matching.DefaultEndpointSelector.Select(HttpContext httpContext, CandidateState[] candidateState)
+   at Microsoft.AspNetCore.Routing.Matching.DfaMatcher.MatchAsync(HttpContext httpContext)
+   at Microsoft.AspNetCore.Routing.Matching.DataSourceDependentMatcher.MatchAsync(HttpContext httpContext)
+   at Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Session.SessionMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Session.SessionMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2020-12-02 18:55:02,923 Http get request initiated for organization details
+2020-12-02 18:55:41,196 An unhandled exception has occurred while executing the request.
+Microsoft.AspNetCore.Routing.Matching.AmbiguousMatchException: The request matched multiple endpoints. Matches: 
+
+TruYumClient.Controllers.CartController.AddToCartAsync (TruYumClient)
+TruYumClient.Controllers.CartController.GetCartItemsAsync (TruYumClient)
+   at Microsoft.AspNetCore.Routing.Matching.DefaultEndpointSelector.ReportAmbiguity(CandidateState[] candidateState)
+   at Microsoft.AspNetCore.Routing.Matching.DefaultEndpointSelector.ProcessFinalCandidates(HttpContext httpContext, CandidateState[] candidateState)
+   at Microsoft.AspNetCore.Routing.Matching.DefaultEndpointSelector.Select(HttpContext httpContext, CandidateState[] candidateState)
+   at Microsoft.AspNetCore.Routing.Matching.DfaMatcher.MatchAsync(HttpContext httpContext)
+   at Microsoft.AspNetCore.Routing.Matching.DataSourceDependentMatcher.MatchAsync(HttpContext httpContext)
+   at Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Session.SessionMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Session.SessionMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2020-12-02 18:55:46,226 Http get request initiated for organization details
+2020-12-02 18:56:35,858 Application started. Press Ctrl+C to shut down.
+2020-12-02 18:56:35,879 Hosting environment: Development
+2020-12-02 18:56:35,882 Content root path: E:\Truyum\TruYumClient
+2020-12-02 18:56:41,466 User Login
+2020-12-02 18:56:42,385 Http get request initiated for organization details
+2020-12-02 18:56:58,553 Http get request initiated for organization details
+2020-12-02 18:56:59,822 Http get request initiated for organization details
+2020-12-02 18:57:05,869 Http get request initiated for organization details
+2020-12-02 18:57:06,127 Http get request initiated for organization details
+2020-12-02 18:57:14,968 Http get request initiated for organization details
+2020-12-02 18:57:28,125 Http get request initiated for organization details
+2020-12-02 18:57:58,792 Http get request initiated for organization details
+2020-12-02 18:58:05,283 User Log Out
+2020-12-02 18:58:08,247 User Login
+2020-12-02 18:58:08,316 Http get request initiated for organization details
+2020-12-02 19:00:12,709 Application started. Press Ctrl+C to shut down.
+2020-12-02 19:00:12,761 Hosting environment: Development
+2020-12-02 19:00:12,764 Content root path: E:\Truyum\TruYumClient
+2020-12-02 19:00:19,624 User Login
+2020-12-02 19:00:21,741 Http get request initiated for organization details
+2020-12-02 19:00:59,586 Http get request initiated for organization details
+2020-12-02 19:01:01,738 Http get request initiated for organization details
+2020-12-02 19:01:29,734 Http get request initiated for organization details
+2020-12-02 19:01:31,972 Http get request initiated for organization details
+2020-12-02 19:01:35,236 Http get request initiated for organization details
+2020-12-02 19:01:35,947 The view 'GetCartItems' was not found. Searched locations: /Views/Cart/GetCartItems.cshtml, /Views/Shared/GetCartItems.cshtml
+2020-12-02 19:01:36,385 An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: The view 'GetCartItems' was not found. The following locations were searched:
+/Views/Cart/GetCartItems.cshtml
+/Views/Shared/GetCartItems.cshtml
+   at Microsoft.AspNetCore.Mvc.ViewEngines.ViewEngineResult.EnsureSuccessful(IEnumerable`1 originalLocations)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor.ExecuteAsync(ActionContext context, ViewResult result)
+   at Microsoft.AspNetCore.Mvc.ViewResult.ExecuteResultAsync(ActionContext context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResultFilterAsync>g__Awaited|29_0[TFilter,TFilterAsync](ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResultExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.ResultNext[TFilter,TFilterAsync](State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeResultFilters()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|24_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Session.SessionMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Session.SessionMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2020-12-02 19:01:44,274 Http get request initiated for organization details
+2020-12-02 19:07:13,100 Application started. Press Ctrl+C to shut down.
+2020-12-02 19:07:13,144 Hosting environment: Development
+2020-12-02 19:07:13,151 Content root path: E:\Truyum\TruYumClient
+2020-12-02 19:07:19,780 User Login
+2020-12-02 19:07:21,480 Http get request initiated for organization details
+2020-12-02 19:07:23,544 An unhandled exception has occurred while executing the request.
+Microsoft.AspNetCore.Routing.Matching.AmbiguousMatchException: The request matched multiple endpoints. Matches: 
+
+TruYumClient.Controllers.CartController.AddToCartAsync (TruYumClient)
+TruYumClient.Controllers.CartController.GetCartItemsAsync (TruYumClient)
+   at Microsoft.AspNetCore.Routing.Matching.DefaultEndpointSelector.ReportAmbiguity(CandidateState[] candidateState)
+   at Microsoft.AspNetCore.Routing.Matching.DefaultEndpointSelector.ProcessFinalCandidates(HttpContext httpContext, CandidateState[] candidateState)
+   at Microsoft.AspNetCore.Routing.Matching.DefaultEndpointSelector.Select(HttpContext httpContext, CandidateState[] candidateState)
+   at Microsoft.AspNetCore.Routing.Matching.DfaMatcher.MatchAsync(HttpContext httpContext)
+   at Microsoft.AspNetCore.Routing.Matching.DataSourceDependentMatcher.MatchAsync(HttpContext httpContext)
+   at Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Session.SessionMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Session.SessionMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2020-12-02 19:07:29,754 Http get request initiated for organization details
+2020-12-02 19:09:54,381 Application started. Press Ctrl+C to shut down.
+2020-12-02 19:09:54,430 Hosting environment: Development
+2020-12-02 19:09:54,432 Content root path: E:\Truyum\TruYumClient
+2020-12-02 19:10:10,985 User Login
+2020-12-02 19:10:11,822 Http get request initiated for organization details
+2020-12-02 19:10:14,014 Http get request initiated for organization details
+2020-12-02 19:10:14,857 Http get request initiated for organization details
+2020-12-02 19:10:16,543 Http get request initiated for organization details
+2020-12-02 19:10:16,796 Http get request initiated for organization details
+2020-12-02 19:10:17,885 Http get request initiated for organization details
+2020-12-02 19:10:17,991 Http get request initiated for organization details
+2020-12-02 19:10:19,568 Http get request initiated for organization details
+2020-12-02 19:10:19,703 The view 'GetCartItems' was not found. Searched locations: /Views/Cart/GetCartItems.cshtml, /Views/Shared/GetCartItems.cshtml
+2020-12-02 19:10:19,845 An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: The view 'GetCartItems' was not found. The following locations were searched:
+/Views/Cart/GetCartItems.cshtml
+/Views/Shared/GetCartItems.cshtml
+   at Microsoft.AspNetCore.Mvc.ViewEngines.ViewEngineResult.EnsureSuccessful(IEnumerable`1 originalLocations)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor.ExecuteAsync(ActionContext context, ViewResult result)
+   at Microsoft.AspNetCore.Mvc.ViewResult.ExecuteResultAsync(ActionContext context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResultFilterAsync>g__Awaited|29_0[TFilter,TFilterAsync](ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResultExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.ResultNext[TFilter,TFilterAsync](State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeResultFilters()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|24_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Session.SessionMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Session.SessionMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2020-12-02 19:10:25,652 Http get request initiated for organization details
+2020-12-02 19:10:31,186 Http get request initiated for organization details
+2020-12-02 19:10:31,235 The view 'GetCartItems' was not found. Searched locations: /Views/Cart/GetCartItems.cshtml, /Views/Shared/GetCartItems.cshtml
+2020-12-02 19:10:31,257 An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: The view 'GetCartItems' was not found. The following locations were searched:
+/Views/Cart/GetCartItems.cshtml
+/Views/Shared/GetCartItems.cshtml
+   at Microsoft.AspNetCore.Mvc.ViewEngines.ViewEngineResult.EnsureSuccessful(IEnumerable`1 originalLocations)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor.ExecuteAsync(ActionContext context, ViewResult result)
+   at Microsoft.AspNetCore.Mvc.ViewResult.ExecuteResultAsync(ActionContext context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResultFilterAsync>g__Awaited|29_0[TFilter,TFilterAsync](ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResultExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.ResultNext[TFilter,TFilterAsync](State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeResultFilters()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|24_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Session.SessionMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Session.SessionMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2020-12-02 19:10:33,159 Http get request initiated for organization details
+2020-12-02 19:11:06,425 Application started. Press Ctrl+C to shut down.
+2020-12-02 19:11:06,447 Hosting environment: Development
+2020-12-02 19:11:06,450 Content root path: E:\Truyum\TruYumClient
+2020-12-02 19:11:10,868 User Login
+2020-12-02 19:11:13,183 Http get request initiated for organization details
+2020-12-02 19:11:17,023 Http get request initiated for organization details
+2020-12-02 19:11:17,254 Http get request initiated for organization details
+2020-12-02 19:11:18,089 Http get request initiated for organization details
+2020-12-02 19:11:18,224 Http get request initiated for organization details
+2020-12-02 19:11:19,075 Http get request initiated for organization details
+2020-12-02 19:11:19,199 Http get request initiated for organization details
+2020-12-02 19:11:21,248 Http get request initiated for organization details
+2020-12-02 19:11:21,361 Http get request initiated for organization details
+2020-12-02 19:11:28,051 Http get request initiated for organization details
+2020-12-02 19:11:43,273 Http get request initiated for organization details
+2020-12-02 19:11:58,524 Http get request initiated for organization details
+2020-12-02 19:12:10,335 Application started. Press Ctrl+C to shut down.
+2020-12-02 19:12:10,352 Hosting environment: Development
+2020-12-02 19:12:10,354 Content root path: E:\Truyum\TruYumClient
+2020-12-02 19:12:15,203 User Login
+2020-12-02 19:12:16,037 Http get request initiated for organization details
+2020-12-02 19:12:17,606 Http get request initiated for organization details
+2020-12-02 19:12:17,735 Http get request initiated for organization details
+2020-12-02 19:12:18,581 Http get request initiated for organization details
+2020-12-02 19:12:18,868 Http get request initiated for organization details
+2020-12-02 19:12:19,489 Http get request initiated for organization details
+2020-12-02 19:12:19,574 Http get request initiated for organization details
+2020-12-02 19:12:20,589 Http get request initiated for organization details
+2020-12-02 19:12:20,633 Http get request initiated for organization details
+2020-12-02 19:12:27,604 Http get request initiated for organization details
+2020-12-02 19:15:12,307 Application started. Press Ctrl+C to shut down.
+2020-12-02 19:15:12,329 Hosting environment: Development
+2020-12-02 19:15:12,332 Content root path: E:\Truyum\TruYumClient
+2020-12-02 19:15:17,654 User Login
+2020-12-02 19:15:18,756 Http get request initiated for organization details
+2020-12-02 19:15:20,594 Http get request initiated for organization details
+2020-12-02 19:15:20,914 Http get request initiated for organization details
+2020-12-02 19:15:33,031 Http get request initiated for organization details
+2020-12-02 19:15:38,467 Http get request initiated for organization details
+2020-12-02 19:15:40,291 Http get request initiated for organization details
+2020-12-02 19:15:40,365 Http get request initiated for organization details
+2020-12-02 19:15:43,675 Http get request initiated for organization details
+2020-12-02 19:21:12,423 Application started. Press Ctrl+C to shut down.
+2020-12-02 19:21:12,444 Hosting environment: Development
+2020-12-02 19:21:12,447 Content root path: E:\Truyum\TruYumClient
+2020-12-02 19:21:16,567 User Login
+2020-12-02 19:21:17,527 Http get request initiated for organization details
+2020-12-02 19:21:19,586 Http get request initiated for organization details
+2020-12-02 19:21:19,940 Http get request initiated for organization details
+2020-12-02 19:21:20,180 Http get request initiated for organization details
+2020-12-02 19:21:32,160 Http get request initiated for organization details
+2020-12-02 19:21:36,446 The view 'PlaceOrder' was not found. Searched locations: /Views/Cart/PlaceOrder.cshtml, /Views/Shared/PlaceOrder.cshtml
+2020-12-02 19:21:36,615 An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: The view 'PlaceOrder' was not found. The following locations were searched:
+/Views/Cart/PlaceOrder.cshtml
+/Views/Shared/PlaceOrder.cshtml
+   at Microsoft.AspNetCore.Mvc.ViewEngines.ViewEngineResult.EnsureSuccessful(IEnumerable`1 originalLocations)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor.ExecuteAsync(ActionContext context, ViewResult result)
+   at Microsoft.AspNetCore.Mvc.ViewResult.ExecuteResultAsync(ActionContext context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResultFilterAsync>g__Awaited|29_0[TFilter,TFilterAsync](ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResultExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.ResultNext[TFilter,TFilterAsync](State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeResultFilters()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|24_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Session.SessionMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Session.SessionMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2020-12-02 19:22:07,828 Http get request initiated for organization details
+2020-12-02 19:22:07,829 Http get request initiated for organization details
+2020-12-02 19:22:07,829 Http get request initiated for organization details
+2020-12-02 19:22:15,774 Http get request initiated for organization details
+2020-12-02 19:22:25,182 The view 'PlaceOrder' was not found. Searched locations: /Views/Cart/PlaceOrder.cshtml, /Views/Shared/PlaceOrder.cshtml
+2020-12-02 19:22:25,220 An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: The view 'PlaceOrder' was not found. The following locations were searched:
+/Views/Cart/PlaceOrder.cshtml
+/Views/Shared/PlaceOrder.cshtml
+   at Microsoft.AspNetCore.Mvc.ViewEngines.ViewEngineResult.EnsureSuccessful(IEnumerable`1 originalLocations)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor.ExecuteAsync(ActionContext context, ViewResult result)
+   at Microsoft.AspNetCore.Mvc.ViewResult.ExecuteResultAsync(ActionContext context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResultFilterAsync>g__Awaited|29_0[TFilter,TFilterAsync](ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResultExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.ResultNext[TFilter,TFilterAsync](State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeResultFilters()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|24_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Session.SessionMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Session.SessionMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2020-12-02 19:22:28,939 Http get request initiated for organization details
+2020-12-02 19:25:36,936 Application started. Press Ctrl+C to shut down.
+2020-12-02 19:25:36,946 Hosting environment: Development
+2020-12-02 19:25:36,948 Content root path: E:\Truyum\TruYumClient
+2020-12-02 19:25:46,190 User Login
+2020-12-02 19:25:47,313 Http get request initiated for organization details
+2020-12-02 19:25:48,911 Http get request initiated for organization details
+2020-12-02 19:25:49,198 Http get request initiated for organization details
+2020-12-02 19:25:49,597 Http get request initiated for organization details
+2020-12-02 19:25:50,025 Http get request initiated for organization details
+2020-12-02 19:25:51,716 Http get request initiated for organization details
+2020-12-02 19:26:08,336 Http get request initiated for organization details
+2020-12-02 19:26:25,201 Http get request initiated for organization details
+2020-12-02 19:43:34,673 Application started. Press Ctrl+C to shut down.
+2020-12-02 19:43:34,692 Hosting environment: Development
+2020-12-02 19:43:34,693 Content root path: E:\Truyum\TruYumClient
+2020-12-02 19:43:39,961 User Login
+2020-12-02 19:43:55,390 Http get request initiated for organization details
+2020-12-02 19:44:13,195 Http get request initiated for organization details
+2020-12-02 19:44:14,880 Http get request initiated for organization details
+2020-12-02 19:44:17,114 Http get request initiated for organization details
+2020-12-02 19:44:23,275 Http get request initiated for organization details
+2020-12-02 19:44:49,085 Http get request initiated for organization details
+2020-12-02 19:44:53,483 Http get request initiated for organization details
+2020-12-02 19:44:54,997 Http get request initiated for organization details
+2020-12-02 19:45:56,122 Application started. Press Ctrl+C to shut down.
+2020-12-02 19:45:56,142 Hosting environment: Development
+2020-12-02 19:45:56,145 Content root path: E:\Truyum\TruYumClient
+2020-12-02 19:46:03,042 User Login
+2020-12-02 19:46:08,515 An unhandled exception has occurred while executing the request.
+System.Net.Http.HttpRequestException: No connection could be made because the target machine actively refused it.
+ ---> System.Net.Sockets.SocketException (10061): No connection could be made because the target machine actively refused it.
+   at System.Net.Http.ConnectHelper.ConnectAsync(String host, Int32 port, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.ConnectHelper.ConnectAsync(String host, Int32 port, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean allowHttp2, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.GetHttpConnectionAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithRetryAsync(HttpRequestMessage request, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.DiagnosticsHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.FinishSendAsyncBuffered(Task`1 sendTask, HttpRequestMessage request, CancellationTokenSource cts, Boolean disposeCts)
+   at TruYumClient.Controllers.LoginController.Login(User user) in E:\Truyum\TruYumClient\Controllers\LoginController.cs:line 40
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|24_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Session.SessionMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Session.SessionMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2020-12-02 19:46:52,536 User Login
+2020-12-02 19:46:53,488 Http get request initiated for organization details
+2020-12-02 19:46:56,139 Http get request initiated for organization details
+2020-12-02 19:46:56,776 Http get request initiated for organization details
+2020-12-02 19:46:58,037 Http get request initiated for organization details
+2020-12-02 19:46:58,475 Http get request initiated for organization details
+2020-12-02 19:47:00,182 Http get request initiated for organization details
+2020-12-02 19:47:11,987 Http get request initiated for organization details
+2020-12-02 19:47:38,686 Http get request initiated for organization details
+2020-12-02 19:47:51,203 Http get request initiated for organization details
+2020-12-02 19:48:50,232 Http get request initiated for organization details
+2020-12-02 19:49:08,979 Http get request initiated for organization details
+2020-12-02 19:51:46,050 Application started. Press Ctrl+C to shut down.
+2020-12-02 19:51:46,085 Hosting environment: Development
+2020-12-02 19:51:46,088 Content root path: E:\Truyum\TruYumClient
+2020-12-02 19:51:50,776 User Login
+2020-12-02 19:51:51,644 Http get request initiated for organization details
+2020-12-02 19:51:54,528 Http get request initiated for organization details
+2020-12-02 19:51:54,933 Http get request initiated for organization details
+2020-12-02 19:51:56,792 Http get request initiated for organization details
+2020-12-02 19:52:02,699 Http get request initiated for organization details
+2020-12-02 19:52:24,210 Http get request initiated for organization details
+2020-12-02 19:53:43,348 Application started. Press Ctrl+C to shut down.
+2020-12-02 19:53:43,368 Hosting environment: Development
+2020-12-02 19:53:43,373 Content root path: E:\Truyum\TruYumClient
+2020-12-02 19:53:49,354 User Login
+2020-12-02 19:53:50,665 Http get request initiated for organization details
+2020-12-02 19:53:52,992 Http get request initiated for organization details
+2020-12-02 19:54:04,961 Http get request initiated for organization details
+2020-12-02 19:54:08,467 Http get request initiated for organization details
+2020-12-02 19:55:03,579 Application started. Press Ctrl+C to shut down.
+2020-12-02 19:55:03,598 Hosting environment: Development
+2020-12-02 19:55:03,600 Content root path: E:\Truyum\TruYumClient
+2020-12-02 19:55:10,464 User Login
+2020-12-02 19:55:12,128 Http get request initiated for organization details
+2020-12-02 19:55:14,298 An unhandled exception has occurred while executing the request.
+Microsoft.AspNetCore.Routing.Matching.AmbiguousMatchException: The request matched multiple endpoints. Matches: 
+
+TruYumClient.Controllers.CartController.AddToCartAsync (TruYumClient)
+TruYumClient.Controllers.CartController.DeleteItemAsync (TruYumClient)
+   at Microsoft.AspNetCore.Routing.Matching.DefaultEndpointSelector.ReportAmbiguity(CandidateState[] candidateState)
+   at Microsoft.AspNetCore.Routing.Matching.DefaultEndpointSelector.ProcessFinalCandidates(HttpContext httpContext, CandidateState[] candidateState)
+   at Microsoft.AspNetCore.Routing.Matching.DefaultEndpointSelector.Select(HttpContext httpContext, CandidateState[] candidateState)
+   at Microsoft.AspNetCore.Routing.Matching.DfaMatcher.MatchAsync(HttpContext httpContext)
+   at Microsoft.AspNetCore.Routing.Matching.DataSourceDependentMatcher.MatchAsync(HttpContext httpContext)
+   at Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Session.SessionMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Session.SessionMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2020-12-02 19:55:17,240 Http get request initiated for organization details
+2020-12-02 19:55:19,143 An unhandled exception has occurred while executing the request.
+Microsoft.AspNetCore.Routing.Matching.AmbiguousMatchException: The request matched multiple endpoints. Matches: 
+
+TruYumClient.Controllers.CartController.AddToCartAsync (TruYumClient)
+TruYumClient.Controllers.CartController.DeleteItemAsync (TruYumClient)
+   at Microsoft.AspNetCore.Routing.Matching.DefaultEndpointSelector.ReportAmbiguity(CandidateState[] candidateState)
+   at Microsoft.AspNetCore.Routing.Matching.DefaultEndpointSelector.ProcessFinalCandidates(HttpContext httpContext, CandidateState[] candidateState)
+   at Microsoft.AspNetCore.Routing.Matching.DefaultEndpointSelector.Select(HttpContext httpContext, CandidateState[] candidateState)
+   at Microsoft.AspNetCore.Routing.Matching.DfaMatcher.MatchAsync(HttpContext httpContext)
+   at Microsoft.AspNetCore.Routing.Matching.DataSourceDependentMatcher.MatchAsync(HttpContext httpContext)
+   at Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Session.SessionMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Session.SessionMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2020-12-02 19:55:21,599 Http get request initiated for organization details
+2020-12-02 19:55:22,990 Http get request initiated for organization details
+2020-12-02 19:55:26,763 Http get request initiated for organization details
+2020-12-02 19:56:17,488 Application started. Press Ctrl+C to shut down.
+2020-12-02 19:56:17,511 Hosting environment: Development
+2020-12-02 19:56:17,514 Content root path: E:\Truyum\TruYumClient
+2020-12-02 19:56:22,568 User Login
+2020-12-02 19:56:23,382 Http get request initiated for organization details
+2020-12-02 19:56:26,397 Http get request initiated for organization details
+2020-12-02 19:56:26,688 Http get request initiated for organization details
+2020-12-02 19:56:28,559 Http get request initiated for organization details
+2020-12-02 19:56:35,524 Http get request initiated for organization details
+2020-12-02 19:56:48,881 Http get request initiated for organization details
+2020-12-02 19:58:34,859 Application started. Press Ctrl+C to shut down.
+2020-12-02 19:58:34,877 Hosting environment: Development
+2020-12-02 19:58:34,880 Content root path: E:\Truyum\TruYumClient
+2020-12-02 19:58:43,294 User Login
+2020-12-02 19:58:44,154 Http get request initiated for organization details
+2020-12-02 19:58:45,729 Http get request initiated for organization details
+2020-12-02 19:58:46,907 Http get request initiated for organization details
+2020-12-02 19:58:48,493 Http get request initiated for organization details
+2020-12-02 19:59:08,788 Http get request initiated for organization details
+2020-12-02 19:59:50,472 Application started. Press Ctrl+C to shut down.
+2020-12-02 19:59:50,482 Hosting environment: Development
+2020-12-02 19:59:50,484 Content root path: E:\Truyum\TruYumClient
+2020-12-02 20:00:04,065 User Login
+2020-12-02 20:00:04,612 Http get request initiated for organization details
+2020-12-02 20:00:06,658 Http get request initiated for organization details
+2020-12-02 20:00:12,126 Http get request initiated for organization details
+2020-12-02 20:05:20,231 Application started. Press Ctrl+C to shut down.
+2020-12-02 20:05:20,252 Hosting environment: Development
+2020-12-02 20:05:20,254 Content root path: E:\Truyum\TruYumClient
+2020-12-02 20:05:25,334 User Login
+2020-12-02 20:05:30,256 An unhandled exception has occurred while executing the request.
+System.Net.Http.HttpRequestException: No connection could be made because the target machine actively refused it.
+ ---> System.Net.Sockets.SocketException (10061): No connection could be made because the target machine actively refused it.
+   at System.Net.Http.ConnectHelper.ConnectAsync(String host, Int32 port, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.ConnectHelper.ConnectAsync(String host, Int32 port, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean allowHttp2, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.GetHttpConnectionAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithRetryAsync(HttpRequestMessage request, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.DiagnosticsHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.FinishSendAsyncBuffered(Task`1 sendTask, HttpRequestMessage request, CancellationTokenSource cts, Boolean disposeCts)
+   at TruYumClient.Controllers.LoginController.Login(User user) in E:\Truyum\TruYumClient\Controllers\LoginController.cs:line 40
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|24_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Session.SessionMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Session.SessionMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2020-12-02 20:06:44,330 User Login
+2020-12-02 20:06:45,189 Http get request initiated for organization details
+2020-12-02 20:06:47,519 Http get request initiated for organization details
+2020-12-02 20:07:43,941 Application started. Press Ctrl+C to shut down.
+2020-12-02 20:07:43,957 Hosting environment: Development
+2020-12-02 20:07:43,960 Content root path: E:\Truyum\TruYumClient
+2020-12-02 20:13:02,857 Application started. Press Ctrl+C to shut down.
+2020-12-02 20:13:02,873 Hosting environment: Development
+2020-12-02 20:13:02,876 Content root path: E:\Truyum\TruYumClient
+2020-12-02 20:13:08,924 User Login
+2020-12-02 20:13:09,877 Http get request initiated for organization details
+2020-12-02 20:13:12,126 Http get request initiated for organization details
+2020-12-02 20:13:21,362 Http get request initiated for organization details
+2020-12-02 20:15:56,520 Application started. Press Ctrl+C to shut down.
+2020-12-02 20:15:56,541 Hosting environment: Development
+2020-12-02 20:15:56,544 Content root path: E:\Truyum\TruYumClient
+2020-12-02 20:16:02,596 User Login
+2020-12-02 20:16:03,482 Http get request initiated for organization details
+2020-12-02 20:16:05,012 Http get request initiated for organization details
+2020-12-02 20:16:05,460 Http get request initiated for organization details
+2020-12-02 20:16:08,446 Http get request initiated for organization details
+2020-12-02 20:16:18,141 Http get request initiated for organization details
+2020-12-02 20:18:30,603 Application started. Press Ctrl+C to shut down.
+2020-12-02 20:18:30,623 Hosting environment: Development
+2020-12-02 20:18:30,625 Content root path: E:\Truyum\TruYumClient
+2020-12-02 20:18:36,509 User Login
+2020-12-02 20:18:37,424 Http get request initiated for organization details
+2020-12-02 20:18:39,766 Http get request initiated for organization details
+2020-12-02 20:19:44,853 Application started. Press Ctrl+C to shut down.
+2020-12-02 20:19:44,874 Hosting environment: Development
+2020-12-02 20:19:44,877 Content root path: E:\Truyum\TruYumClient
+2020-12-02 20:19:49,334 User Login
+2020-12-02 20:19:50,123 Http get request initiated for organization details
+2020-12-02 20:19:52,541 Http get request initiated for organization details
+2020-12-02 20:20:04,365 Http get request initiated for organization details
+2020-12-02 20:20:04,931 Http get request initiated for organization details
+2020-12-02 20:21:05,231 Application started. Press Ctrl+C to shut down.
+2020-12-02 20:21:05,246 Hosting environment: Development
+2020-12-02 20:21:05,249 Content root path: E:\Truyum\TruYumClient
+2020-12-02 20:21:09,616 User Login
+2020-12-02 20:21:10,740 Http get request initiated for organization details
+2020-12-02 20:21:12,375 Http get request initiated for organization details
+2020-12-02 20:21:14,763 An unhandled exception has occurred while executing the request.
+Microsoft.AspNetCore.Routing.Matching.AmbiguousMatchException: The request matched multiple endpoints. Matches: 
+
+TruYumClient.Controllers.CartController.AddToCartAsync (TruYumClient)
+TruYumClient.Controllers.CartController.DeleteItem (TruYumClient)
+   at Microsoft.AspNetCore.Routing.Matching.DefaultEndpointSelector.ReportAmbiguity(CandidateState[] candidateState)
+   at Microsoft.AspNetCore.Routing.Matching.DefaultEndpointSelector.ProcessFinalCandidates(HttpContext httpContext, CandidateState[] candidateState)
+   at Microsoft.AspNetCore.Routing.Matching.DefaultEndpointSelector.Select(HttpContext httpContext, CandidateState[] candidateState)
+   at Microsoft.AspNetCore.Routing.Matching.DfaMatcher.MatchAsync(HttpContext httpContext)
+   at Microsoft.AspNetCore.Routing.Matching.DataSourceDependentMatcher.MatchAsync(HttpContext httpContext)
+   at Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Session.SessionMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Session.SessionMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2020-12-02 20:21:18,365 Http get request initiated for organization details
+2020-12-02 20:26:52,539 Application started. Press Ctrl+C to shut down.
+2020-12-02 20:26:52,554 Hosting environment: Development
+2020-12-02 20:26:52,558 Content root path: E:\Truyum\TruYumClient
+2020-12-02 20:27:10,888 User Login
+2020-12-02 20:27:11,691 Http get request initiated for organization details
+2020-12-02 20:27:13,215 Http get request initiated for organization details
+2020-12-02 20:27:14,270 An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Cannot determine the 'href' attribute for <a>. The following attributes are mutually exclusive:
+asp-route
+asp-controller, asp-action
+asp-page, asp-page-handler
+   at Microsoft.AspNetCore.Mvc.TagHelpers.AnchorTagHelper.Process(TagHelperContext context, TagHelperOutput output)
+   at Microsoft.AspNetCore.Razor.TagHelpers.TagHelper.ProcessAsync(TagHelperContext context, TagHelperOutput output)
+   at Microsoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperRunner.RunAsync(TagHelperExecutionContext executionContext)
+   at AspNetCore.Views_Cart_GetCartItems.ExecuteAsync() in E:\Truyum\TruYumClient\Views\Cart\GetCartItems.cshtml:line 63
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderPageCoreAsync(IRazorPage page, ViewContext context)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderPageAsync(IRazorPage page, ViewContext context, Boolean invokeViewStarts)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderAsync(ViewContext context)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ViewContext viewContext, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ViewContext viewContext, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ActionContext actionContext, IView view, ViewDataDictionary viewData, ITempDataDictionary tempData, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor.ExecuteAsync(ActionContext context, ViewResult result)
+   at Microsoft.AspNetCore.Mvc.ViewResult.ExecuteResultAsync(ActionContext context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResultFilterAsync>g__Awaited|29_0[TFilter,TFilterAsync](ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResultExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.ResultNext[TFilter,TFilterAsync](State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeResultFilters()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|24_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Session.SessionMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Session.SessionMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2020-12-02 20:27:59,082 Application started. Press Ctrl+C to shut down.
+2020-12-02 20:27:59,098 Hosting environment: Development
+2020-12-02 20:27:59,101 Content root path: E:\Truyum\TruYumClient
+2020-12-02 20:28:29,997 User Login
+2020-12-02 20:28:30,725 Http get request initiated for organization details
+2020-12-02 20:28:32,533 Http get request initiated for organization details
+2020-12-02 20:28:33,005 An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Cannot determine the 'href' attribute for <a>. The following attributes are mutually exclusive:
+asp-route
+asp-controller, asp-action
+asp-page, asp-page-handler
+   at Microsoft.AspNetCore.Mvc.TagHelpers.AnchorTagHelper.Process(TagHelperContext context, TagHelperOutput output)
+   at Microsoft.AspNetCore.Razor.TagHelpers.TagHelper.ProcessAsync(TagHelperContext context, TagHelperOutput output)
+   at Microsoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperRunner.RunAsync(TagHelperExecutionContext executionContext)
+   at AspNetCore.Views_Cart_GetCartItems.ExecuteAsync() in E:\Truyum\TruYumClient\Views\Cart\GetCartItems.cshtml:line 63
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderPageCoreAsync(IRazorPage page, ViewContext context)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderPageAsync(IRazorPage page, ViewContext context, Boolean invokeViewStarts)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderAsync(ViewContext context)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ViewContext viewContext, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ViewContext viewContext, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ActionContext actionContext, IView view, ViewDataDictionary viewData, ITempDataDictionary tempData, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor.ExecuteAsync(ActionContext context, ViewResult result)
+   at Microsoft.AspNetCore.Mvc.ViewResult.ExecuteResultAsync(ActionContext context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResultFilterAsync>g__Awaited|29_0[TFilter,TFilterAsync](ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResultExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.ResultNext[TFilter,TFilterAsync](State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeResultFilters()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|24_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Session.SessionMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Session.SessionMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2020-12-02 20:29:06,023 Application started. Press Ctrl+C to shut down.
+2020-12-02 20:29:06,038 Hosting environment: Development
+2020-12-02 20:29:06,040 Content root path: E:\Truyum\TruYumClient
+2020-12-02 20:29:13,316 User Login
+2020-12-02 20:29:13,780 Http get request initiated for organization details
+2020-12-02 20:29:16,030 Http get request initiated for organization details
+2020-12-02 20:29:19,465 Http get request initiated for organization details
+2020-12-02 20:29:19,946 Http get request initiated for organization details
+2020-12-02 20:29:22,549 Http get request initiated for organization details
+2020-12-02 20:29:23,661 Http get request initiated for organization details
+2020-12-02 20:29:24,610 Http get request initiated for organization details
+2020-12-02 20:29:25,823 Http get request initiated for organization details
+2020-12-02 20:29:52,502 Http get request initiated for organization details
+2020-12-02 20:29:52,582 Http get request initiated for organization details
+2020-12-02 20:29:54,667 Http get request initiated for organization details
+2020-12-02 20:29:55,581 Http get request initiated for organization details
+2020-12-02 20:29:55,644 Http get request initiated for organization details
+2020-12-02 20:31:16,284 Application started. Press Ctrl+C to shut down.
+2020-12-02 20:31:16,301 Hosting environment: Development
+2020-12-02 20:31:16,305 Content root path: E:\Truyum\TruYumClient
+2020-12-02 20:31:21,092 User Login
+2020-12-02 20:31:22,568 Http get request initiated for organization details
+2020-12-02 20:31:24,702 Http get request initiated for organization details
+2020-12-02 20:31:37,543 Http get request initiated for organization details
+2020-12-02 20:31:37,672 Http get request initiated for organization details
+2020-12-02 20:37:18,197 Application started. Press Ctrl+C to shut down.
+2020-12-02 20:37:18,213 Hosting environment: Development
+2020-12-02 20:37:18,215 Content root path: E:\Truyum\TruYumClient
+2020-12-02 20:37:23,367 User Login
+2020-12-02 20:37:24,169 Http get request initiated for organization details
+2020-12-02 20:37:26,911 Http get request initiated for organization details
+2020-12-02 20:38:06,028 Application started. Press Ctrl+C to shut down.
+2020-12-02 20:38:06,048 Hosting environment: Development
+2020-12-02 20:38:06,051 Content root path: E:\Truyum\TruYumClient
+2020-12-02 20:38:10,586 User Login
+2020-12-02 20:38:11,373 Http get request initiated for organization details
+2020-12-02 20:38:13,250 Http get request initiated for organization details
+2020-12-02 20:38:25,017 Http get request initiated for organization details
+2020-12-02 20:38:25,042 Http get request initiated for organization details
+2020-12-02 20:38:29,424 Http get request initiated for organization details
+2020-12-02 20:38:29,445 Http get request initiated for organization details
+2020-12-02 20:38:46,526 Http get request initiated for organization details
+2020-12-02 20:38:46,586 Http get request initiated for organization details
+2020-12-02 20:38:47,520 Http get request initiated for organization details
+2020-12-02 20:38:47,537 Http get request initiated for organization details
+2020-12-02 20:38:48,139 Http get request initiated for organization details
+2020-12-02 20:38:48,211 Http get request initiated for organization details
+2020-12-02 20:38:48,489 Http get request initiated for organization details
+2020-12-02 20:38:48,508 Http get request initiated for organization details
+2020-12-02 20:38:48,764 Http get request initiated for organization details
+2020-12-02 20:38:48,783 Http get request initiated for organization details
+2020-12-02 20:38:49,597 Http get request initiated for organization details
+2020-12-02 20:38:49,623 Http get request initiated for organization details
+2020-12-02 20:38:50,803 Http get request initiated for organization details
+2020-12-02 20:38:50,822 Http get request initiated for organization details
+2020-12-02 20:39:14,879 User Log Out
+2020-12-02 20:39:17,703 User Login
+2020-12-02 20:39:17,897 Http get request initiated for organization details
+2020-12-02 20:39:20,344 Http get request initiated for organization details
+2020-12-02 20:39:20,491 Http get request initiated for organization details
+2020-12-02 20:39:21,761 Http get request initiated for organization details
+2020-12-02 20:39:24,135 Http get request initiated for organization details
+2020-12-02 20:39:24,176 Http get request initiated for organization details
+2020-12-02 20:39:35,201 User Log Out
+2020-12-02 20:42:05,847 Application started. Press Ctrl+C to shut down.
+2020-12-02 20:42:05,866 Hosting environment: Development
+2020-12-02 20:42:05,869 Content root path: E:\Truyum\TruYumClient
+2020-12-02 20:42:30,007 User Login
+2020-12-02 20:42:30,478 Http get request initiated for organization details
+2020-12-02 20:42:32,879 Http get request initiated for Getting cart items
+2020-12-02 20:42:35,725 Http get request initiated to delete item from the cart
+2020-12-02 20:42:35,743 Http get request initiated for Getting cart items
+2020-12-02 20:42:37,360 Http get request initiated for organization details
+2020-12-02 20:42:38,519 Http get request initiated for add to cart
+2020-12-02 20:42:38,581 Http get request initiated for organization details
+2020-12-02 20:42:40,163 Http get request initiated for add to cart
+2020-12-02 20:42:40,244 Http get request initiated for organization details
+2020-12-02 20:42:40,551 Http get request initiated for add to cart
+2020-12-02 20:42:40,604 Http get request initiated for organization details
+2020-12-02 20:42:41,787 Http get request initiated for Getting cart items
+2020-12-02 20:42:43,096 Http get request initiated to delete item from the cart
+2020-12-02 20:42:43,109 Http get request initiated for Getting cart items
+2020-12-02 20:42:43,730 Http get request initiated to delete item from the cart
+2020-12-02 20:42:43,744 Http get request initiated for Getting cart items
+2020-12-02 20:42:48,926 User Log Out
+2020-12-02 20:59:54,629 Application started. Press Ctrl+C to shut down.
+2020-12-02 20:59:54,683 Hosting environment: Development
+2020-12-02 20:59:54,686 Content root path: E:\Truyum\TruYumClient
+2020-12-02 21:00:10,679 User Login
+2020-12-02 21:00:17,788 An unhandled exception has occurred while executing the request.
+System.Net.Http.HttpRequestException: No connection could be made because the target machine actively refused it.
+ ---> System.Net.Sockets.SocketException (10061): No connection could be made because the target machine actively refused it.
+   at System.Net.Http.ConnectHelper.ConnectAsync(String host, Int32 port, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.ConnectHelper.ConnectAsync(String host, Int32 port, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean allowHttp2, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.GetHttpConnectionAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithRetryAsync(HttpRequestMessage request, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.DiagnosticsHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.FinishSendAsyncBuffered(Task`1 sendTask, HttpRequestMessage request, CancellationTokenSource cts, Boolean disposeCts)
+   at TruYumClient.Controllers.LoginController.Login(User user) in E:\Truyum\TruYumClient\Controllers\LoginController.cs:line 40
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|24_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Session.SessionMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Session.SessionMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2020-12-02 21:05:02,621 User Login
+2020-12-02 21:05:10,172 Http get request initiated for organization details
+2020-12-02 21:05:38,947 Http get request initiated for add to cart
+2020-12-02 21:06:05,962 Http get request initiated for add to cart
+2020-12-02 21:06:05,962 Http get request initiated for add to cart
+2020-12-02 21:06:07,532 Http get request initiated for add to cart
+2020-12-02 21:06:08,821 Http get request initiated for add to cart
+2020-12-02 21:06:11,716 Http get request initiated for organization details
+2020-12-02 21:06:23,914 Http get request initiated for Getting cart items
+2020-12-02 21:06:29,085 Http get request initiated to delete item from the cart
+2020-12-02 21:06:33,474 Http get request initiated for Getting cart items
+2020-12-02 21:06:38,175 Http get request initiated to delete item from the cart
+2020-12-02 21:06:38,852 Http get request initiated for Getting cart items
+2020-12-02 21:06:47,485 Http get request initiated for organization details
+2020-12-02 21:06:49,441 Http get request initiated for add to cart
+2020-12-02 21:06:49,840 Http get request initiated for organization details
+2020-12-02 21:06:51,139 Http get request initiated for Getting cart items
+2020-12-02 21:07:06,970 Http get request initiated for organization details
+2020-12-02 21:07:09,041 Http get request initiated for Getting cart items
+2020-12-02 21:07:10,951 Http get request initiated for organization details
+2020-12-02 21:07:30,445 User Log Out
+2020-12-02 21:07:49,976 User Login
+2020-12-02 21:07:50,282 Http get request initiated for organization details
+2020-12-02 21:07:55,054 Http get request initiated for add to cart
+2020-12-02 21:07:56,442 Http get request initiated for organization details
+2020-12-02 21:07:57,984 Http get request initiated for add to cart
+2020-12-02 21:07:58,486 Http get request initiated for organization details
+2020-12-02 21:08:00,930 Http get request initiated for add to cart
+2020-12-02 21:08:01,668 Http get request initiated for organization details
+2020-12-02 21:08:04,170 Http get request initiated for Getting cart items
+2020-12-02 21:08:07,320 Http get request initiated to delete item from the cart
+2020-12-02 21:08:07,342 Http get request initiated for Getting cart items
+2020-12-02 21:08:09,245 Http get request initiated to delete item from the cart
+2020-12-02 21:08:09,268 Http get request initiated for Getting cart items
+2020-12-02 21:08:11,021 Http get request initiated for organization details
+2020-12-02 21:08:12,968 Http get request initiated for add to cart
+2020-12-02 21:08:13,100 Http get request initiated for organization details
+2020-12-02 21:08:14,938 Http get request initiated for add to cart
+2020-12-02 21:08:15,014 Http get request initiated for organization details
+2020-12-02 21:08:17,257 Http get request initiated for Getting cart items
+2020-12-02 21:08:46,209 User Log Out
+2020-12-02 21:09:13,404 User Login
+2020-12-02 21:09:13,527 Http get request initiated for organization details
+2020-12-02 21:09:15,227 Http get request initiated for Getting cart items
+2020-12-02 21:09:17,078 Http get request initiated for organization details
+2020-12-02 21:09:18,407 Http get request initiated for add to cart
+2020-12-02 21:09:18,512 Http get request initiated for organization details
+2020-12-02 21:09:19,720 Http get request initiated for Getting cart items
+2020-12-02 21:09:25,985 User Log Out

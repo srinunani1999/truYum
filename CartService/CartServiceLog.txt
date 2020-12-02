@@ -1,0 +1,501 @@
+2020-12-01 19:40:41,132 Application started. Press Ctrl+C to shut down.
+2020-12-01 19:40:41,143 Hosting environment: Development
+2020-12-01 19:40:41,145 Content root path: E:\Truyum\CartService
+2020-12-01 19:40:50,322 Http get request initiated for all cart Items
+2020-12-01 19:40:50,383 Http get Request Failed Due to The given key '1' was not present in the dictionary.
+2020-12-01 19:41:04,949 Http get request initiated for all cart Items
+2020-12-01 19:41:04,977 Http get Request Failed Due to The given key '1' was not present in the dictionary.
+2020-12-01 19:45:07,317 Application started. Press Ctrl+C to shut down.
+2020-12-01 19:45:07,329 Hosting environment: Development
+2020-12-01 19:45:07,332 Content root path: E:\Truyum\CartService
+2020-12-01 19:45:58,337 Http get request initiated for all cart Items
+2020-12-01 19:45:58,390 Http get Request Failed Due to The given key '1' was not present in the dictionary.
+2020-12-01 19:46:35,094 Http get request initiated for all cart Items
+2020-12-01 19:46:35,123 Http get Request Failed Due to The given key '1' was not present in the dictionary.
+2020-12-01 19:48:06,553 Application started. Press Ctrl+C to shut down.
+2020-12-01 19:48:06,563 Hosting environment: Development
+2020-12-01 19:48:06,565 Content root path: E:\Truyum\CartService
+2020-12-01 19:51:15,163 Application started. Press Ctrl+C to shut down.
+2020-12-01 19:51:15,173 Hosting environment: Development
+2020-12-01 19:51:15,175 Content root path: E:\Truyum\CartService
+2020-12-01 19:54:07,839 Application started. Press Ctrl+C to shut down.
+2020-12-01 19:54:07,849 Hosting environment: Development
+2020-12-01 19:54:07,852 Content root path: E:\Truyum\CartService
+2020-12-01 19:55:11,364 Application started. Press Ctrl+C to shut down.
+2020-12-01 19:55:11,375 Hosting environment: Development
+2020-12-01 19:55:11,376 Content root path: E:\Truyum\CartService
+2020-12-01 19:55:49,477 Http get request initiated for all cart Items
+2020-12-01 19:55:49,477 All the MenuItems were displayed
+2020-12-01 19:57:10,409 Application started. Press Ctrl+C to shut down.
+2020-12-01 19:57:10,419 Hosting environment: Development
+2020-12-01 19:57:10,421 Content root path: E:\Truyum\CartService
+2020-12-01 19:58:19,338 Http get request initiated for all cart Items
+2020-12-01 19:58:19,338 All the MenuItems were displayed
+2020-12-01 19:59:34,374 Http get request initiated for all cart Items
+2020-12-01 19:59:34,375 All the MenuItems were displayed
+2020-12-01 19:59:38,377 Http get request initiated for all cart Items
+2020-12-01 19:59:38,377 All the MenuItems were displayed
+2020-12-01 20:00:27,568 Application started. Press Ctrl+C to shut down.
+2020-12-01 20:00:27,582 Hosting environment: Development
+2020-12-01 20:00:27,584 Content root path: E:\Truyum\CartService
+2020-12-01 20:04:00,589 Application started. Press Ctrl+C to shut down.
+2020-12-01 20:04:00,601 Hosting environment: Development
+2020-12-01 20:04:00,603 Content root path: E:\Truyum\CartService
+2020-12-01 20:04:45,014 An unhandled exception has occurred while executing the request.
+System.Collections.Generic.KeyNotFoundException: The given key '1' was not present in the dictionary.
+   at System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   at CartService.Repositories.CartRepository.Delete(Int32 userid, Int32 menuitemid) in E:\Truyum\CartService\Repositories\CartRepository.cs:line 39
+   at CartService.Controllers.CartController.Delete(Int32 id, Int32 menuitemid) in E:\Truyum\CartService\Controllers\CartController.cs:line 77
+   at lambda_method(Closure , Object , Object[] )
+   at Microsoft.Extensions.Internal.ObjectMethodExecutor.Execute(Object target, Object[] parameters)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncObjectResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2020-12-01 20:05:03,568 An unhandled exception has occurred while executing the request.
+System.Collections.Generic.KeyNotFoundException: The given key '1' was not present in the dictionary.
+   at System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   at CartService.Repositories.CartRepository.Delete(Int32 userid, Int32 menuitemid) in E:\Truyum\CartService\Repositories\CartRepository.cs:line 39
+   at CartService.Controllers.CartController.Delete(Int32 id, Int32 menuitemid) in E:\Truyum\CartService\Controllers\CartController.cs:line 77
+   at lambda_method(Closure , Object , Object[] )
+   at Microsoft.Extensions.Internal.ObjectMethodExecutor.Execute(Object target, Object[] parameters)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncObjectResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2020-12-01 20:05:29,767 Http get request initiated for all cart Items
+2020-12-01 20:05:29,767 All the MenuItems were displayed
+2020-12-01 20:05:47,180 Http get request initiated for all cart Items
+2020-12-01 20:05:47,181 All the MenuItems were displayed
+2020-12-01 20:10:26,040 Application started. Press Ctrl+C to shut down.
+2020-12-01 20:10:26,050 Hosting environment: Development
+2020-12-01 20:10:26,052 Content root path: E:\Truyum\CartService
+2020-12-01 20:10:40,923 Http post Request Initiated for the user Id 1
+2020-12-01 20:10:40,923 Obtained Valid Model
+2020-12-01 20:10:50,032 Http post Request Initiated for the user Id 1
+2020-12-01 20:10:50,032 Obtained Valid Model
+2020-12-01 20:11:11,813 Http post Request Initiated for the user Id 2
+2020-12-01 20:11:11,813 Obtained Valid Model
+2020-12-01 20:11:20,824 Http get request initiated for all cart Items
+2020-12-01 20:11:20,824 All the MenuItems were displayed
+2020-12-01 20:11:25,686 Http get request initiated for all cart Items
+2020-12-01 20:11:25,686 All the MenuItems were displayed
+2020-12-01 20:11:37,862 Http Delete Request Initiated for the user Id 1
+2020-12-01 20:11:55,127 Http get request initiated for all cart Items
+2020-12-01 20:11:55,127 All the MenuItems were displayed
+2020-12-01 20:11:59,579 Http get request initiated for all cart Items
+2020-12-01 20:11:59,580 All the MenuItems were displayed
+2020-12-01 20:12:04,750 Http get request initiated for all cart Items
+2020-12-01 20:12:04,780 Http get Request Failed Due to The given key '3' was not present in the dictionary.
+2020-12-01 20:13:05,819 Application started. Press Ctrl+C to shut down.
+2020-12-01 20:13:05,829 Hosting environment: Development
+2020-12-01 20:13:05,831 Content root path: E:\Truyum\CartService
+2020-12-01 20:13:15,910 Http get request initiated for all cart Items
+2020-12-01 20:13:15,963 Http get Request Failed Due to The given key '1' was not present in the dictionary.
+2020-12-01 20:13:28,663 Http get request initiated for all cart Items
+2020-12-01 20:13:41,671 Http get Request Failed Due to The given key '1' was not present in the dictionary.
+2020-12-01 20:14:20,198 Application started. Press Ctrl+C to shut down.
+2020-12-01 20:14:20,211 Hosting environment: Development
+2020-12-01 20:14:20,213 Content root path: E:\Truyum\CartService
+2020-12-01 20:14:31,833 Http get request initiated for all cart Items
+2020-12-01 20:14:31,862 Http get Request Failed Due to The given key '1' was not present in the dictionary.
+2020-12-02 18:00:38,814 Application started. Press Ctrl+C to shut down.
+2020-12-02 18:00:38,837 Hosting environment: Development
+2020-12-02 18:00:38,840 Content root path: E:\Truyum\CartService
+2020-12-02 18:01:18,034 Http post Request Initiated for the user Id 1
+2020-12-02 18:01:18,034 Obtained Valid Model
+2020-12-02 18:02:58,729 Application started. Press Ctrl+C to shut down.
+2020-12-02 18:02:58,751 Hosting environment: Development
+2020-12-02 18:02:58,754 Content root path: E:\Truyum\CartService
+2020-12-02 18:03:14,820 Http post Request Initiated for the user Id 1
+2020-12-02 18:03:14,820 Obtained Valid Model
+2020-12-02 18:36:52,295 Http post Request Initiated for the user Id 1
+2020-12-02 18:36:52,356 Obtained Valid Model
+2020-12-02 18:37:47,871 Http get request initiated for all cart Items
+2020-12-02 18:37:47,871 All the MenuItems were displayed
+2020-12-02 18:38:00,334 Http post Request Initiated for the user Id 1
+2020-12-02 18:38:00,334 Obtained Valid Model
+2020-12-02 18:38:06,099 Http get request initiated for all cart Items
+2020-12-02 18:38:06,099 All the MenuItems were displayed
+2020-12-02 18:38:14,964 Http post Request Initiated for the user Id 1
+2020-12-02 18:38:14,965 Obtained Valid Model
+2020-12-02 18:38:24,101 Http get request initiated for all cart Items
+2020-12-02 18:38:24,101 All the MenuItems were displayed
+2020-12-02 18:38:36,916 Http post Request Initiated for the user Id 1
+2020-12-02 18:38:36,916 Obtained Valid Model
+2020-12-02 18:38:43,227 Http get request initiated for all cart Items
+2020-12-02 18:38:43,227 All the MenuItems were displayed
+2020-12-02 18:44:52,662 Http get request initiated for all cart Items
+2020-12-02 18:44:52,662 All the MenuItems were displayed
+2020-12-02 18:56:59,764 Http post Request Initiated for the user Id 1
+2020-12-02 18:56:59,766 Obtained Valid Model
+2020-12-02 18:57:06,043 Http post Request Initiated for the user Id 1
+2020-12-02 18:57:06,044 Obtained Valid Model
+2020-12-02 18:57:24,163 Http post Request Initiated for the user Id 1
+2020-12-02 18:57:24,163 Obtained Valid Model
+2020-12-02 19:01:01,655 Http post Request Initiated for the user Id 1
+2020-12-02 19:01:01,655 Obtained Valid Model
+2020-12-02 19:01:31,905 Http post Request Initiated for the user Id 1
+2020-12-02 19:01:31,905 Obtained Valid Model
+2020-12-02 19:01:35,754 Http get request initiated for all cart Items
+2020-12-02 19:01:35,754 All the MenuItems were displayed
+2020-12-02 19:10:14,783 Http post Request Initiated for the user Id 1
+2020-12-02 19:10:14,784 Obtained Valid Model
+2020-12-02 19:10:16,706 Http post Request Initiated for the user Id 1
+2020-12-02 19:10:16,789 Obtained Valid Model
+2020-12-02 19:10:17,982 Http post Request Initiated for the user Id 1
+2020-12-02 19:10:17,983 Obtained Valid Model
+2020-12-02 19:10:19,609 Http get request initiated for all cart Items
+2020-12-02 19:10:19,609 All the MenuItems were displayed
+2020-12-02 19:10:31,214 Http get request initiated for all cart Items
+2020-12-02 19:10:31,214 All the MenuItems were displayed
+2020-12-02 19:11:17,244 Http post Request Initiated for the user Id 1
+2020-12-02 19:11:17,244 Obtained Valid Model
+2020-12-02 19:11:18,174 Http post Request Initiated for the user Id 1
+2020-12-02 19:11:18,174 Obtained Valid Model
+2020-12-02 19:11:19,107 Http post Request Initiated for the user Id 1
+2020-12-02 19:11:19,108 Obtained Valid Model
+2020-12-02 19:11:21,352 Http post Request Initiated for the user Id 1
+2020-12-02 19:11:21,352 Obtained Valid Model
+2020-12-02 19:12:17,725 Http post Request Initiated for the user Id 1
+2020-12-02 19:12:17,725 Obtained Valid Model
+2020-12-02 19:12:18,637 Http post Request Initiated for the user Id 1
+2020-12-02 19:12:18,637 Obtained Valid Model
+2020-12-02 19:12:19,561 Http post Request Initiated for the user Id 1
+2020-12-02 19:12:19,561 Obtained Valid Model
+2020-12-02 19:12:20,618 Http post Request Initiated for the user Id 1
+2020-12-02 19:12:20,618 Obtained Valid Model
+2020-12-02 19:12:30,983 Http get request initiated for all cart Items
+2020-12-02 19:12:30,983 All the MenuItems were displayed
+2020-12-02 19:15:20,904 Http post Request Initiated for the user Id 1
+2020-12-02 19:15:20,904 Obtained Valid Model
+2020-12-02 19:15:33,084 Http get request initiated for all cart Items
+2020-12-02 19:15:33,084 All the MenuItems were displayed
+2020-12-02 19:15:40,353 Http post Request Initiated for the user Id 1
+2020-12-02 19:15:40,353 Obtained Valid Model
+2020-12-02 19:15:43,726 Http get request initiated for all cart Items
+2020-12-02 19:15:43,726 All the MenuItems were displayed
+2020-12-02 19:21:19,994 Http post Request Initiated for the user Id 1
+2020-12-02 19:21:19,996 Obtained Valid Model
+2020-12-02 19:21:20,173 Http post Request Initiated for the user Id 1
+2020-12-02 19:21:20,173 Obtained Valid Model
+2020-12-02 19:21:32,234 Http get request initiated for all cart Items
+2020-12-02 19:21:32,234 All the MenuItems were displayed
+2020-12-02 19:22:07,902 Http get request initiated for all cart Items
+2020-12-02 19:22:07,902 All the MenuItems were displayed
+2020-12-02 19:22:15,798 Http get request initiated for all cart Items
+2020-12-02 19:22:15,798 All the MenuItems were displayed
+2020-12-02 19:22:28,948 Http get request initiated for all cart Items
+2020-12-02 19:22:28,948 All the MenuItems were displayed
+2020-12-02 19:25:49,190 Http post Request Initiated for the user Id 1
+2020-12-02 19:25:49,190 Obtained Valid Model
+2020-12-02 19:25:50,018 Http post Request Initiated for the user Id 1
+2020-12-02 19:25:50,018 Obtained Valid Model
+2020-12-02 19:25:51,732 Http get request initiated for all cart Items
+2020-12-02 19:25:51,732 All the MenuItems were displayed
+2020-12-02 19:26:08,345 Http get request initiated for all cart Items
+2020-12-02 19:26:08,345 All the MenuItems were displayed
+2020-12-02 19:33:51,104 Http Delete Request Initiated for the user Id 1
+2020-12-02 19:40:21,967 Application started. Press Ctrl+C to shut down.
+2020-12-02 19:40:21,976 Hosting environment: Development
+2020-12-02 19:40:21,977 Content root path: E:\Truyum\CartService
+2020-12-02 19:40:43,230 Http post Request Initiated for the user Id 1
+2020-12-02 19:40:43,230 Obtained Valid Model
+2020-12-02 19:40:51,388 Http post Request Initiated for the user Id 1
+2020-12-02 19:40:51,388 Obtained Valid Model
+2020-12-02 19:40:56,072 Http get request initiated for all cart Items
+2020-12-02 19:40:56,072 All the MenuItems were displayed
+2020-12-02 19:41:09,879 Http Delete Request Initiated for the user Id 1
+2020-12-02 19:41:27,945 Http get request initiated for all cart Items
+2020-12-02 19:41:27,945 All the MenuItems were displayed
+2020-12-02 19:44:14,861 Http post Request Initiated for the user Id 1
+2020-12-02 19:44:14,861 Obtained Valid Model
+2020-12-02 19:44:17,140 Http get request initiated for all cart Items
+2020-12-02 19:44:17,140 All the MenuItems were displayed
+2020-12-02 19:44:23,517 Http Delete Request Initiated for the user Id 1
+2020-12-02 19:44:49,111 Http get request initiated for all cart Items
+2020-12-02 19:44:49,111 All the MenuItems were displayed
+2020-12-02 19:44:53,523 Http Delete Request Initiated for the user Id 1
+2020-12-02 19:44:55,030 Http get request initiated for all cart Items
+2020-12-02 19:44:55,030 All the MenuItems were displayed
+2020-12-02 19:46:56,751 Http post Request Initiated for the user Id 1
+2020-12-02 19:46:56,753 Obtained Valid Model
+2020-12-02 19:46:58,448 Http post Request Initiated for the user Id 1
+2020-12-02 19:46:58,452 Obtained Valid Model
+2020-12-02 19:47:00,203 Http get request initiated for all cart Items
+2020-12-02 19:47:00,203 All the MenuItems were displayed
+2020-12-02 19:47:17,971 Http Delete Request Initiated for the user Id 1
+2020-12-02 19:47:38,770 Http get request initiated for all cart Items
+2020-12-02 19:47:38,770 All the MenuItems were displayed
+2020-12-02 19:48:16,483 Http Delete Request Initiated for the user Id 1
+2020-12-02 19:48:50,436 Http get request initiated for all cart Items
+2020-12-02 19:48:50,436 All the MenuItems were displayed
+2020-12-02 19:49:16,188 Http Delete Request Initiated for the user Id 1
+2020-12-02 19:50:11,194 Http Delete Request Initiated for the user Id 1
+2020-12-02 19:50:13,736 Http Delete Request Initiated for the user Id 1
+2020-12-02 19:50:15,526 Http Delete Request Initiated for the user Id 1
+2020-12-02 19:51:42,453 Http get request initiated for all cart Items
+2020-12-02 19:51:42,453 All the MenuItems were displayed
+2020-12-02 19:51:54,920 Http post Request Initiated for the user Id 1
+2020-12-02 19:51:54,920 Obtained Valid Model
+2020-12-02 19:51:56,861 Http get request initiated for all cart Items
+2020-12-02 19:51:56,861 All the MenuItems were displayed
+2020-12-02 19:52:06,030 Http Delete Request Initiated for the user Id 1
+2020-12-02 19:52:24,235 Http get request initiated for all cart Items
+2020-12-02 19:52:24,235 All the MenuItems were displayed
+2020-12-02 19:53:53,107 Http get request initiated for all cart Items
+2020-12-02 19:53:53,108 All the MenuItems were displayed
+2020-12-02 19:54:05,040 Http get request initiated for all cart Items
+2020-12-02 19:54:05,040 All the MenuItems were displayed
+2020-12-02 19:54:08,716 Http get request initiated for all cart Items
+2020-12-02 19:54:08,716 All the MenuItems were displayed
+2020-12-02 19:55:23,047 Http get request initiated for all cart Items
+2020-12-02 19:55:23,048 All the MenuItems were displayed
+2020-12-02 19:55:26,830 Http get request initiated for all cart Items
+2020-12-02 19:55:26,830 All the MenuItems were displayed
+2020-12-02 19:56:26,586 Http post Request Initiated for the user Id 1
+2020-12-02 19:56:26,587 Obtained Valid Model
+2020-12-02 19:56:28,590 Http get request initiated for all cart Items
+2020-12-02 19:56:28,590 All the MenuItems were displayed
+2020-12-02 19:56:35,552 Http get request initiated for all cart Items
+2020-12-02 19:56:35,552 All the MenuItems were displayed
+2020-12-02 19:56:49,327 Http get request initiated for all cart Items
+2020-12-02 19:56:49,328 All the MenuItems were displayed
+2020-12-02 19:58:46,842 Http post Request Initiated for the user Id 1
+2020-12-02 19:58:46,842 Obtained Valid Model
+2020-12-02 19:58:48,521 Http get request initiated for all cart Items
+2020-12-02 19:58:48,522 All the MenuItems were displayed
+2020-12-02 19:59:08,818 Http get request initiated for all cart Items
+2020-12-02 19:59:08,818 All the MenuItems were displayed
+2020-12-02 19:59:56,296 Http get request initiated for all cart Items
+2020-12-02 19:59:56,296 All the MenuItems were displayed
+2020-12-02 20:00:06,684 Http get request initiated for all cart Items
+2020-12-02 20:00:06,684 All the MenuItems were displayed
+2020-12-02 20:00:12,140 Http get request initiated for all cart Items
+2020-12-02 20:00:12,140 All the MenuItems were displayed
+2020-12-02 20:06:47,622 Http get request initiated for all cart Items
+2020-12-02 20:06:47,640 All the MenuItems were displayed
+2020-12-02 20:13:12,290 Http get request initiated for all cart Items
+2020-12-02 20:13:12,291 All the MenuItems were displayed
+2020-12-02 20:13:21,516 Http get request initiated for all cart Items
+2020-12-02 20:13:21,516 All the MenuItems were displayed
+2020-12-02 20:16:05,435 Http post Request Initiated for the user Id 1
+2020-12-02 20:16:05,435 Obtained Valid Model
+2020-12-02 20:16:08,509 Http get request initiated for all cart Items
+2020-12-02 20:16:08,509 All the MenuItems were displayed
+2020-12-02 20:16:18,153 Http get request initiated for all cart Items
+2020-12-02 20:16:18,153 All the MenuItems were displayed
+2020-12-02 20:18:39,836 Http get request initiated for all cart Items
+2020-12-02 20:18:39,836 All the MenuItems were displayed
+2020-12-02 20:19:52,579 Http get request initiated for all cart Items
+2020-12-02 20:19:52,579 All the MenuItems were displayed
+2020-12-02 20:20:04,554 Http Delete Request Initiated for the user Id 1
+2020-12-02 20:20:04,946 Http get request initiated for all cart Items
+2020-12-02 20:20:04,946 All the MenuItems were displayed
+2020-12-02 20:21:12,518 Http get request initiated for all cart Items
+2020-12-02 20:21:12,519 All the MenuItems were displayed
+2020-12-02 20:21:18,386 Http get request initiated for all cart Items
+2020-12-02 20:21:18,386 All the MenuItems were displayed
+2020-12-02 20:27:13,248 Http get request initiated for all cart Items
+2020-12-02 20:27:13,274 All the MenuItems were displayed
+2020-12-02 20:28:32,570 Http get request initiated for all cart Items
+2020-12-02 20:28:32,570 All the MenuItems were displayed
+2020-12-02 20:29:16,084 Http get request initiated for all cart Items
+2020-12-02 20:29:16,084 All the MenuItems were displayed
+2020-12-02 20:29:19,932 Http post Request Initiated for the user Id 1
+2020-12-02 20:29:19,933 Obtained Valid Model
+2020-12-02 20:29:22,559 Http get request initiated for all cart Items
+2020-12-02 20:29:22,559 All the MenuItems were displayed
+2020-12-02 20:29:24,599 Http post Request Initiated for the user Id 1
+2020-12-02 20:29:24,599 Obtained Valid Model
+2020-12-02 20:29:25,838 Http get request initiated for all cart Items
+2020-12-02 20:29:25,838 All the MenuItems were displayed
+2020-12-02 20:29:52,571 Http post Request Initiated for the user Id 1
+2020-12-02 20:29:52,571 Obtained Valid Model
+2020-12-02 20:29:54,687 Http get request initiated for all cart Items
+2020-12-02 20:29:54,687 All the MenuItems were displayed
+2020-12-02 20:29:55,631 Http post Request Initiated for the user Id 1
+2020-12-02 20:29:55,632 Obtained Valid Model
+2020-12-02 20:31:24,769 Http get request initiated for all cart Items
+2020-12-02 20:31:24,769 All the MenuItems were displayed
+2020-12-02 20:31:37,656 Http Delete Request Initiated for the user Id 1
+2020-12-02 20:31:37,685 Http get request initiated for all cart Items
+2020-12-02 20:31:37,685 All the MenuItems were displayed
+2020-12-02 20:37:26,965 Http get request initiated for all cart Items
+2020-12-02 20:37:26,965 All the MenuItems were displayed
+2020-12-02 20:38:13,341 Http get request initiated for all cart Items
+2020-12-02 20:38:13,341 All the MenuItems were displayed
+2020-12-02 20:38:25,032 Http Delete Request Initiated for the user Id 1
+2020-12-02 20:38:25,100 Http get request initiated for all cart Items
+2020-12-02 20:38:25,100 All the MenuItems were displayed
+2020-12-02 20:38:29,436 Http Delete Request Initiated for the user Id 1
+2020-12-02 20:38:29,454 Http get request initiated for all cart Items
+2020-12-02 20:38:29,455 All the MenuItems were displayed
+2020-12-02 20:38:46,543 Http Delete Request Initiated for the user Id 1
+2020-12-02 20:38:46,605 Http get request initiated for all cart Items
+2020-12-02 20:38:46,605 All the MenuItems were displayed
+2020-12-02 20:38:47,529 Http Delete Request Initiated for the user Id 1
+2020-12-02 20:38:47,543 Http get request initiated for all cart Items
+2020-12-02 20:38:47,543 All the MenuItems were displayed
+2020-12-02 20:38:48,202 Http Delete Request Initiated for the user Id 1
+2020-12-02 20:38:48,220 Http get request initiated for all cart Items
+2020-12-02 20:38:48,220 All the MenuItems were displayed
+2020-12-02 20:38:48,499 Http Delete Request Initiated for the user Id 1
+2020-12-02 20:38:48,519 Http get request initiated for all cart Items
+2020-12-02 20:38:48,519 All the MenuItems were displayed
+2020-12-02 20:38:48,774 Http Delete Request Initiated for the user Id 1
+2020-12-02 20:38:48,793 Http get request initiated for all cart Items
+2020-12-02 20:38:48,793 All the MenuItems were displayed
+2020-12-02 20:38:49,612 Http Delete Request Initiated for the user Id 1
+2020-12-02 20:38:49,670 Http get request initiated for all cart Items
+2020-12-02 20:38:49,670 All the MenuItems were displayed
+2020-12-02 20:38:50,814 Http Delete Request Initiated for the user Id 1
+2020-12-02 20:38:50,833 Http get request initiated for all cart Items
+2020-12-02 20:38:50,834 All the MenuItems were displayed
+2020-12-02 20:39:20,481 Http post Request Initiated for the user Id 1
+2020-12-02 20:39:20,481 Obtained Valid Model
+2020-12-02 20:39:21,785 Http get request initiated for all cart Items
+2020-12-02 20:39:21,785 All the MenuItems were displayed
+2020-12-02 20:39:24,169 Http Delete Request Initiated for the user Id 1
+2020-12-02 20:39:24,279 Http get request initiated for all cart Items
+2020-12-02 20:39:24,279 All the MenuItems were displayed
+2020-12-02 20:42:32,900 Http get request initiated for all cart Items
+2020-12-02 20:42:32,900 All the MenuItems were displayed
+2020-12-02 20:42:35,735 Http Delete Request Initiated for the user Id 1
+2020-12-02 20:42:35,805 Http get request initiated for all cart Items
+2020-12-02 20:42:35,806 All the MenuItems were displayed
+2020-12-02 20:42:38,574 Http post Request Initiated for the user Id 1
+2020-12-02 20:42:38,574 Obtained Valid Model
+2020-12-02 20:42:40,183 Http post Request Initiated for the user Id 1
+2020-12-02 20:42:40,183 Obtained Valid Model
+2020-12-02 20:42:40,596 Http post Request Initiated for the user Id 1
+2020-12-02 20:42:40,596 Obtained Valid Model
+2020-12-02 20:42:41,798 Http get request initiated for all cart Items
+2020-12-02 20:42:41,798 All the MenuItems were displayed
+2020-12-02 20:42:43,103 Http Delete Request Initiated for the user Id 1
+2020-12-02 20:42:43,115 Http get request initiated for all cart Items
+2020-12-02 20:42:43,115 All the MenuItems were displayed
+2020-12-02 20:42:43,737 Http Delete Request Initiated for the user Id 1
+2020-12-02 20:42:43,749 Http get request initiated for all cart Items
+2020-12-02 20:42:43,749 All the MenuItems were displayed
+2020-12-02 20:52:39,697 Application started. Press Ctrl+C to shut down.
+2020-12-02 20:52:39,716 Hosting environment: Development
+2020-12-02 20:52:39,719 Content root path: E:\Truyum\CartService
+2020-12-02 20:52:47,039 An unhandled exception has occurred while executing the request.
+Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Conflicting method/path combination "GET api/Cart" for actions - CartService.Controllers.CartController.Get (CartService),CartService.Controllers.CartController.RemoveAfterOrder (CartService). Actions require a unique method/path combination for Swagger/OpenAPI 3.0. Use ConflictingActionsResolver as a workaround
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperations(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePaths(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwagger(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2020-12-02 20:53:13,162 Application started. Press Ctrl+C to shut down.
+2020-12-02 20:53:13,173 Hosting environment: Development
+2020-12-02 20:53:13,175 Content root path: E:\Truyum\CartService
+2020-12-02 20:53:32,192 Http post Request Initiated for the user Id 1
+2020-12-02 20:53:32,192 Obtained Valid Model
+2020-12-02 20:54:00,315 Http get request initiated for all cart Items
+2020-12-02 20:54:00,315 All the MenuItems were displayed
+2020-12-02 20:54:12,387 Http get request initiated for all cart Items
+2020-12-02 20:54:12,387 All the MenuItems were displayed
+2020-12-02 20:54:55,968 Application started. Press Ctrl+C to shut down.
+2020-12-02 20:54:55,976 Hosting environment: Development
+2020-12-02 20:54:55,978 Content root path: E:\Truyum\CartService
+2020-12-02 20:55:12,228 An unhandled exception has occurred while executing the request.
+System.Collections.Generic.KeyNotFoundException: The given key '1' was not present in the dictionary.
+   at System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   at CartService.Repositories.CartRepository.RemoveAfterOrder(Int32 userid) in E:\Truyum\CartService\Repositories\CartRepository.cs:line 49
+   at CartService.Controllers.CartController.RemoveAfterOrder(Int32 userid) in E:\Truyum\CartService\Controllers\CartController.cs:line 37
+   at lambda_method(Closure , Object , Object[] )
+   at Microsoft.Extensions.Internal.ObjectMethodExecutor.Execute(Object target, Object[] parameters)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2020-12-02 20:55:23,247 Http post Request Initiated for the user Id 1
+2020-12-02 20:55:23,247 Obtained Valid Model
+2020-12-02 21:06:04,796 Http post Request Initiated for the user Id 1
+2020-12-02 21:06:05,274 Obtained Valid Model
+2020-12-02 21:06:11,558 Http post Request Initiated for the user Id 1
+2020-12-02 21:06:11,558 Obtained Valid Model
+2020-12-02 21:06:11,570 Http post Request Initiated for the user Id 1
+2020-12-02 21:06:11,570 Obtained Valid Model
+2020-12-02 21:06:11,793 Http post Request Initiated for the user Id 1
+2020-12-02 21:06:11,793 Obtained Valid Model
+2020-12-02 21:06:11,793 Http post Request Initiated for the user Id 1
+2020-12-02 21:06:11,793 Obtained Valid Model
+2020-12-02 21:06:25,790 Http get request initiated for all cart Items
+2020-12-02 21:06:25,791 All the MenuItems were displayed
+2020-12-02 21:06:33,232 Http Delete Request Initiated for the user Id 1
+2020-12-02 21:06:34,239 Http get request initiated for all cart Items
+2020-12-02 21:06:34,289 All the MenuItems were displayed
+2020-12-02 21:06:38,841 Http Delete Request Initiated for the user Id 1
+2020-12-02 21:06:39,119 Http get request initiated for all cart Items
+2020-12-02 21:06:39,120 All the MenuItems were displayed
+2020-12-02 21:06:49,824 Http post Request Initiated for the user Id 1
+2020-12-02 21:06:49,824 Obtained Valid Model
+2020-12-02 21:06:51,161 Http get request initiated for all cart Items
+2020-12-02 21:06:51,161 All the MenuItems were displayed
+2020-12-02 21:07:09,102 Http get request initiated for all cart Items
+2020-12-02 21:07:09,102 All the MenuItems were displayed
+2020-12-02 21:07:56,426 Http post Request Initiated for the user Id 1
+2020-12-02 21:07:56,427 Obtained Valid Model
+2020-12-02 21:07:58,477 Http post Request Initiated for the user Id 1
+2020-12-02 21:07:58,477 Obtained Valid Model
+2020-12-02 21:08:01,659 Http post Request Initiated for the user Id 1
+2020-12-02 21:08:01,659 Obtained Valid Model
+2020-12-02 21:08:04,239 Http get request initiated for all cart Items
+2020-12-02 21:08:04,239 All the MenuItems were displayed
+2020-12-02 21:08:07,332 Http Delete Request Initiated for the user Id 1
+2020-12-02 21:08:07,413 Http get request initiated for all cart Items
+2020-12-02 21:08:07,413 All the MenuItems were displayed
+2020-12-02 21:08:09,255 Http Delete Request Initiated for the user Id 1
+2020-12-02 21:08:09,431 Http get request initiated for all cart Items
+2020-12-02 21:08:09,431 All the MenuItems were displayed
+2020-12-02 21:08:13,093 Http post Request Initiated for the user Id 1
+2020-12-02 21:08:13,093 Obtained Valid Model
+2020-12-02 21:08:14,966 Http post Request Initiated for the user Id 1
+2020-12-02 21:08:14,967 Obtained Valid Model
+2020-12-02 21:08:17,305 Http get request initiated for all cart Items
+2020-12-02 21:08:17,305 All the MenuItems were displayed
+2020-12-02 21:09:15,270 Http get request initiated for all cart Items
+2020-12-02 21:09:15,271 All the MenuItems were displayed
+2020-12-02 21:09:18,484 Http post Request Initiated for the user Id 1
+2020-12-02 21:09:18,484 Obtained Valid Model
+2020-12-02 21:09:19,732 Http get request initiated for all cart Items
+2020-12-02 21:09:19,732 All the MenuItems were displayed
